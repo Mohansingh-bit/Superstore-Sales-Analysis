@@ -1,0 +1,1001 @@
+Order ID,Order Date,Ship Date,Customer Name,Segment,Region,Category,Sub-Category,Product Name,Sales,Quantity,Profit
+ORD-0001,2022-10-17,2022-10-19,Mohan Singh,onwer,East,Technology,Accessories,HP Keyboard,3208.41,9,288.32
+ORD-0002,2021-01-31,2021-02-02,Arjun Nair,Home Office,West,Technology,Computers,Asus VivoBook,8596.22,9,878.05
+ORD-0003,2021-10-12,2021-10-14,Arjun Nair,Consumer,Central,Technology,Copiers,HP LaserJet,2303.87,6,163.5
+ORD-0004,2022-01-03,2022-01-07,Neha Gupta,Home Office,South,Office Supplies,Storage,Storage Box,229.96,7,7.34
+ORD-0005,2022-10-06,2022-10-12,Kavya Menon,Home Office,West,Furniture,Tables,Conference Table,7396.55,5,2107.23
+ORD-0006,2023-06-07,2023-06-09,Meera Iyer,Consumer,Central,Furniture,Bookcases,Metal Shelf,2359.86,6,47.53
+ORD-0007,2023-08-18,2023-08-25,Kavya Menon,Home Office,East,Office Supplies,Binders,Staples Binder,432.17,3,9.28
+ORD-0008,2023-08-06,2023-08-13,Kavya Menon,Consumer,Central,Office Supplies,Envelopes,Brown Envelope,243.46,1,19.6
+ORD-0009,2021-03-09,2021-03-12,Divya Reddy,Home Office,East,Office Supplies,Labels,Name Tags,1865.91,7,353.19
+ORD-0010,2021-05-27,2021-05-31,Manoj Mishra,Home Office,Central,Technology,Computers,Asus VivoBook,12712.57,7,1013.58
+ORD-0011,2021-08-13,2021-08-16,Vikram Patel,Consumer,West,Office Supplies,Art,Sketch Pens,719.11,3,64.7
+ORD-0012,2021-03-07,2021-03-12,Neha Gupta,Home Office,West,Furniture,Furnishings,Drawer Unit,10361.06,9,2547.47
+ORD-0013,2021-12-15,2021-12-17,Rohit Joshi,Consumer,South,Furniture,Furnishings,Cabinet,10500.72,9,1348.89
+ORD-0014,2021-04-19,2021-04-26,Sneha Chauhan,Consumer,Central,Furniture,Tables,Standing Desk,12473.02,9,2114.49
+ORD-0015,2022-05-16,2022-05-18,Kavya Menon,Consumer,East,Technology,Accessories,Dell Monitor,19045.09,10,-1170.43
+ORD-0016,2022-05-13,2022-05-15,Sunita Rao,Home Office,South,Office Supplies,Paper,A4 Paper Ream,815.13,5,140.99
+ORD-0017,2023-09-15,2023-09-18,Anjali Dubey,Home Office,East,Office Supplies,Labels,Sticky Labels,2090.15,7,402.24
+ORD-0018,2022-03-25,2022-03-31,Suresh Kumar,Consumer,East,Furniture,Chairs,Executive Chair,923.63,1,3.28
+ORD-0019,2021-08-14,2021-08-16,Suresh Kumar,Consumer,West,Technology,Phones,iPhone 14,2250.96,2,56.98
+ORD-0020,2022-05-13,2022-05-16,Divya Reddy,Consumer,South,Office Supplies,Paper,Letterhead Paper,456.53,7,-25.74
+ORD-0021,2022-03-18,2022-03-22,Neha Gupta,Home Office,West,Furniture,Furnishings,File Cabinet,663.67,1,34.97
+ORD-0022,2023-06-02,2023-06-04,Pooja Tiwari,Consumer,South,Technology,Computers,HP Pavilion,2104.14,3,26.12
+ORD-0023,2023-08-04,2023-08-06,Kavya Menon,Consumer,West,Furniture,Chairs,Ergonomic Chair,2006.94,3,234.03
+ORD-0024,2023-06-05,2023-06-10,Rohit Joshi,Corporate,West,Technology,Computers,Acer Aspire,5707.59,8,1218.38
+ORD-0025,2023-01-19,2023-01-25,Anjali Dubey,Consumer,East,Office Supplies,Labels,Name Tags,1163.7,4,186.93
+ORD-0026,2022-07-10,2022-07-12,Divya Reddy,Home Office,West,Office Supplies,Storage,Storage Box,2489.6,9,346.07
+ORD-0027,2021-02-28,2021-03-06,Kavya Menon,Home Office,West,Technology,Computers,Dell Inspiron,2910.57,7,875.0
+ORD-0028,2021-09-10,2021-09-16,Manoj Mishra,Corporate,West,Office Supplies,Binders,Staples Binder,1616.07,10,518.14
+ORD-0029,2021-07-29,2021-08-05,Vikram Patel,Corporate,Central,Office Supplies,Storage,Storage Box,712.98,5,226.77
+ORD-0030,2023-08-17,2023-08-19,Arjun Nair,Home Office,West,Technology,Copiers,Canon Copier,6096.25,9,1950.6
+ORD-0031,2023-06-22,2023-06-24,Sneha Chauhan,Corporate,East,Technology,Accessories,Dell Monitor,6505.1,5,2239.41
+ORD-0032,2022-11-01,2022-11-07,Neha Gupta,Corporate,East,Technology,Accessories,Logitech Mouse,3072.7,2,-92.33
+ORD-0033,2021-10-16,2021-10-22,Divya Reddy,Home Office,Central,Technology,Accessories,HP Keyboard,9148.03,5,2568.28
+ORD-0034,2021-04-05,2021-04-12,Vikram Patel,Corporate,West,Furniture,Bookcases,Wood Bookcase,1631.07,5,161.19
+ORD-0035,2022-12-24,2022-12-29,Vikram Patel,Home Office,West,Office Supplies,Binders,Avery Binder,184.03,9,12.17
+ORD-0036,2022-07-20,2022-07-23,Priya Singh,Corporate,Central,Furniture,Tables,Conference Table,2364.64,6,29.06
+ORD-0037,2021-04-16,2021-04-20,Sunita Rao,Consumer,East,Office Supplies,Art,Highlighters,796.83,3,-70.8
+ORD-0038,2023-01-25,2023-01-29,Neha Gupta,Home Office,East,Furniture,Tables,Coffee Table,9247.23,7,2648.1
+ORD-0039,2021-08-16,2021-08-19,Rahul Sharma,Consumer,East,Furniture,Bookcases,Metal Shelf,2631.41,4,66.76
+ORD-0040,2021-03-13,2021-03-17,Rohit Joshi,Consumer,West,Furniture,Furnishings,Drawer Unit,2738.48,3,938.2
+ORD-0041,2021-02-09,2021-02-11,Ritu Agarwal,Corporate,Central,Office Supplies,Art,Markers Set,391.84,9,119.42
+ORD-0042,2021-07-14,2021-07-18,Pooja Tiwari,Corporate,East,Technology,Copiers,Canon Copier,3815.95,2,1199.53
+ORD-0043,2022-10-01,2022-10-05,Anjali Dubey,Home Office,Central,Office Supplies,Binders,Staples Binder,732.15,7,156.49
+ORD-0044,2022-07-22,2022-07-25,Manoj Mishra,Home Office,East,Technology,Copiers,Epson Printer,4654.68,5,1280.86
+ORD-0045,2021-11-08,2021-11-12,Nikhil Bose,Corporate,South,Technology,Copiers,HP LaserJet,4480.45,4,1152.29
+ORD-0046,2023-09-10,2023-09-17,Kavya Menon,Consumer,Central,Technology,Phones,OnePlus Nord,3021.77,5,-31.4
+ORD-0047,2021-01-26,2021-01-28,Manoj Mishra,Corporate,South,Technology,Copiers,Canon Copier,5972.09,4,434.71
+ORD-0048,2022-02-14,2022-02-17,Sunita Rao,Consumer,South,Technology,Phones,Samsung Galaxy,9325.71,9,1406.62
+ORD-0049,2023-07-29,2023-07-31,Ritu Agarwal,Corporate,Central,Furniture,Tables,Folding Table,6276.93,9,1933.83
+ORD-0050,2022-04-02,2022-04-05,Rohit Joshi,Consumer,Central,Office Supplies,Art,Markers Set,1354.8,9,10.38
+ORD-0051,2022-03-27,2022-03-29,Suresh Kumar,Corporate,Central,Office Supplies,Storage,Storage Box,300.31,9,-9.65
+ORD-0052,2022-01-28,2022-02-04,Suresh Kumar,Corporate,South,Technology,Computers,Dell Inspiron,9347.97,9,-672.87
+ORD-0053,2023-05-03,2023-05-08,Meera Iyer,Consumer,South,Furniture,Chairs,Gaming Chair,5774.33,5,1640.21
+ORD-0054,2023-09-04,2023-09-09,Kavya Menon,Corporate,East,Office Supplies,Labels,Sticky Labels,681.96,5,-59.29
+ORD-0055,2021-12-11,2021-12-18,Vikram Patel,Corporate,East,Office Supplies,Art,Highlighters,1648.96,10,508.07
+ORD-0056,2022-08-30,2022-09-05,Nikhil Bose,Consumer,South,Office Supplies,Binders,Avery Binder,73.75,3,5.21
+ORD-0057,2021-08-05,2021-08-10,Rohit Joshi,Corporate,Central,Furniture,Bookcases,Metal Shelf,1516.86,2,359.59
+ORD-0058,2021-02-23,2021-02-27,Arjun Nair,Consumer,West,Technology,Phones,Samsung Galaxy,1318.4,1,9.68
+ORD-0059,2022-04-30,2022-05-07,Sunita Rao,Corporate,Central,Technology,Computers,Acer Aspire,12930.45,10,3058.91
+ORD-0060,2021-04-28,2021-05-01,Rajesh Khanna,Home Office,Central,Furniture,Chairs,Ergonomic Chair,9926.41,7,-106.72
+ORD-0061,2022-08-30,2022-09-06,Ritu Agarwal,Home Office,Central,Office Supplies,Paper,A4 Paper Ream,481.81,2,74.52
+ORD-0062,2021-02-12,2021-02-16,Arun Pillai,Consumer,Central,Office Supplies,Art,Highlighters,82.01,6,7.3
+ORD-0063,2022-05-17,2022-05-19,Vikram Patel,Home Office,South,Furniture,Bookcases,Corner Bookcase,2426.14,7,327.01
+ORD-0064,2022-10-29,2022-11-02,Manoj Mishra,Corporate,South,Office Supplies,Envelopes,Bubble Mailer,517.34,5,5.42
+ORD-0065,2023-08-16,2023-08-18,Ritu Agarwal,Home Office,South,Furniture,Furnishings,Cabinet,3996.69,7,489.35
+ORD-0066,2021-11-29,2021-12-02,Rohit Joshi,Corporate,Central,Furniture,Tables,Coffee Table,10816.57,10,263.07
+ORD-0067,2021-01-11,2021-01-17,Sneha Chauhan,Corporate,South,Technology,Phones,iPhone 14,5772.39,4,1100.54
+ORD-0068,2022-05-18,2022-05-23,Kavya Menon,Corporate,East,Technology,Phones,OnePlus Nord,6975.64,5,460.81
+ORD-0069,2022-07-21,2022-07-27,Nikhil Bose,Home Office,Central,Furniture,Furnishings,Drawer Unit,2646.36,5,9.9
+ORD-0070,2023-01-09,2023-01-12,Divya Reddy,Consumer,East,Furniture,Chairs,Executive Chair,5572.1,5,1891.58
+ORD-0071,2022-06-22,2022-06-28,Meera Iyer,Consumer,Central,Furniture,Chairs,Executive Chair,1569.52,3,343.11
+ORD-0072,2021-05-10,2021-05-14,Vikram Patel,Home Office,Central,Technology,Phones,Vivo V23,3077.26,8,-290.74
+ORD-0073,2021-10-19,2021-10-24,Rohit Joshi,Consumer,East,Furniture,Furnishings,Drawer Unit,2077.78,8,-146.68
+ORD-0074,2022-05-19,2022-05-21,Vikram Patel,Consumer,West,Office Supplies,Labels,Sticky Labels,2852.46,10,-175.91
+ORD-0075,2021-09-12,2021-09-14,Rajesh Khanna,Home Office,East,Office Supplies,Art,Highlighters,2187.73,8,73.96
+ORD-0076,2022-08-26,2022-08-31,Arjun Nair,Home Office,East,Furniture,Chairs,Ergonomic Chair,5123.0,5,-150.23
+ORD-0077,2021-06-27,2021-07-03,Ritu Agarwal,Corporate,South,Technology,Computers,Dell Inspiron,5794.13,8,24.13
+ORD-0078,2022-12-25,2022-12-29,Manoj Mishra,Corporate,East,Office Supplies,Art,Sketch Pens,533.16,4,77.34
+ORD-0079,2022-10-26,2022-10-29,Anjali Dubey,Consumer,West,Furniture,Tables,Conference Table,11485.41,10,1793.37
+ORD-0080,2021-10-23,2021-10-28,Arun Pillai,Corporate,South,Technology,Copiers,HP LaserJet,9799.48,9,-625.22
+ORD-0081,2021-02-10,2021-02-15,Amit Verma,Consumer,Central,Office Supplies,Storage,Drawer Tray,1155.82,4,319.22
+ORD-0082,2022-08-13,2022-08-19,Divya Reddy,Consumer,West,Technology,Accessories,Webcam HD,12354.45,9,3857.46
+ORD-0083,2021-07-05,2021-07-11,Pooja Tiwari,Corporate,South,Furniture,Furnishings,Desk Lamp,3296.89,6,-174.5
+ORD-0084,2021-06-14,2021-06-18,Priya Singh,Home Office,South,Furniture,Furnishings,Drawer Unit,1786.27,8,24.26
+ORD-0085,2021-04-29,2021-05-04,Priya Singh,Corporate,South,Office Supplies,Binders,Staples Binder,641.39,4,115.57
+ORD-0086,2022-05-26,2022-06-02,Vikram Patel,Home Office,Central,Furniture,Chairs,Executive Chair,3566.81,5,764.06
+ORD-0087,2021-05-05,2021-05-07,Sneha Chauhan,Corporate,East,Office Supplies,Envelopes,Brown Envelope,170.15,1,-9.88
+ORD-0088,2023-05-12,2023-05-14,Anjali Dubey,Home Office,South,Furniture,Chairs,Executive Chair,9788.19,9,851.29
+ORD-0089,2022-05-10,2022-05-15,Ritu Agarwal,Consumer,South,Technology,Copiers,Xerox WorkCentre,13889.94,9,-535.75
+ORD-0090,2021-03-13,2021-03-17,Anjali Dubey,Consumer,Central,Furniture,Bookcases,Corner Bookcase,6362.33,5,1024.12
+ORD-0091,2022-11-07,2022-11-12,Sneha Chauhan,Corporate,Central,Technology,Copiers,Epson Printer,7910.8,9,2529.74
+ORD-0092,2023-06-10,2023-06-13,Pooja Tiwari,Consumer,South,Office Supplies,Paper,Letterhead Paper,102.27,1,11.54
+ORD-0093,2023-07-25,2023-07-30,Arun Pillai,Consumer,West,Furniture,Tables,Folding Table,5647.93,10,-309.71
+ORD-0094,2023-05-16,2023-05-21,Vikram Patel,Corporate,East,Technology,Copiers,Canon Copier,2090.17,2,702.59
+ORD-0095,2021-12-13,2021-12-19,Sneha Chauhan,Corporate,West,Office Supplies,Art,Highlighters,2006.9,7,365.38
+ORD-0096,2023-06-28,2023-07-03,Anjali Dubey,Consumer,West,Office Supplies,Binders,Staples Binder,906.25,4,86.35
+ORD-0097,2021-04-11,2021-04-18,Anjali Dubey,Home Office,East,Office Supplies,Binders,Wilson Binder,23.34,1,6.03
+ORD-0098,2021-10-28,2021-11-01,Pooja Tiwari,Home Office,East,Furniture,Furnishings,Cabinet,10545.21,10,-200.09
+ORD-0099,2021-06-29,2021-07-01,Manoj Mishra,Corporate,East,Office Supplies,Art,Highlighters,232.0,3,43.4
+ORD-0100,2022-04-16,2022-04-20,Sneha Chauhan,Home Office,Central,Office Supplies,Binders,Wilson Binder,94.26,3,30.67
+ORD-0101,2022-08-25,2022-08-29,Anjali Dubey,Corporate,Central,Office Supplies,Art,Highlighters,1199.27,4,340.59
+ORD-0102,2021-04-20,2021-04-23,Anjali Dubey,Home Office,Central,Furniture,Bookcases,Corner Bookcase,1469.12,1,288.25
+ORD-0103,2021-10-09,2021-10-11,Divya Reddy,Home Office,West,Office Supplies,Labels,Sticky Labels,1174.82,5,4.17
+ORD-0104,2023-04-02,2023-04-06,Vikram Patel,Home Office,Central,Technology,Computers,Asus VivoBook,3652.25,2,697.04
+ORD-0105,2021-11-13,2021-11-18,Suresh Kumar,Corporate,West,Technology,Accessories,HP Keyboard,3613.06,7,-146.43
+ORD-0106,2022-07-07,2022-07-11,Divya Reddy,Corporate,East,Office Supplies,Envelopes,Bubble Mailer,1132.51,5,59.37
+ORD-0107,2021-04-28,2021-05-03,Meera Iyer,Home Office,South,Technology,Computers,HP Pavilion,3246.46,2,-304.31
+ORD-0108,2022-07-04,2022-07-06,Rajesh Khanna,Home Office,Central,Furniture,Bookcases,Corner Bookcase,1510.11,6,7.88
+ORD-0109,2021-01-26,2021-02-01,Amit Verma,Home Office,East,Office Supplies,Storage,Drawer Tray,2189.78,8,78.8
+ORD-0110,2022-02-23,2022-02-25,Neha Gupta,Corporate,Central,Technology,Phones,Samsung Galaxy,1245.28,2,176.7
+ORD-0111,2022-02-02,2022-02-07,Neha Gupta,Home Office,South,Furniture,Furnishings,Cabinet,7695.3,8,2482.3
+ORD-0112,2021-10-14,2021-10-16,Kavya Menon,Corporate,South,Office Supplies,Storage,Storage Box,232.88,6,48.57
+ORD-0113,2022-07-12,2022-07-19,Neha Gupta,Consumer,Central,Furniture,Chairs,Gaming Chair,1826.74,8,-8.32
+ORD-0114,2022-10-17,2022-10-23,Manoj Mishra,Consumer,East,Technology,Phones,OnePlus Nord,1293.99,4,316.15
+ORD-0115,2021-08-01,2021-08-07,Rahul Sharma,Home Office,East,Technology,Computers,Lenovo ThinkPad,8725.66,5,-304.44
+ORD-0116,2021-05-14,2021-05-20,Rahul Sharma,Consumer,West,Furniture,Tables,Conference Table,7235.87,6,51.15
+ORD-0117,2021-11-28,2021-11-30,Pooja Tiwari,Home Office,East,Technology,Accessories,Logitech Mouse,3641.12,9,-259.97
+ORD-0118,2022-04-05,2022-04-09,Kavya Menon,Home Office,South,Office Supplies,Envelopes,Brown Envelope,225.76,10,56.99
+ORD-0119,2023-06-07,2023-06-14,Divya Reddy,Consumer,West,Office Supplies,Storage,File Organizer,935.34,7,-48.09
+ORD-0120,2022-12-31,2023-01-05,Vikram Patel,Consumer,East,Technology,Phones,OnePlus Nord,6618.86,5,1081.62
+ORD-0121,2022-12-31,2023-01-04,Neha Gupta,Consumer,South,Furniture,Bookcases,Metal Shelf,9982.58,9,-32.34
+ORD-0122,2022-04-08,2022-04-11,Neha Gupta,Corporate,South,Furniture,Bookcases,Metal Shelf,4184.82,6,834.03
+ORD-0123,2022-01-19,2022-01-22,Amit Verma,Consumer,West,Office Supplies,Art,Sketch Pens,266.03,7,61.84
+ORD-0124,2023-04-12,2023-04-15,Neha Gupta,Home Office,Central,Office Supplies,Binders,Staples Binder,787.8,7,157.09
+ORD-0125,2023-02-08,2023-02-13,Neha Gupta,Corporate,Central,Office Supplies,Binders,Wilson Binder,1571.5,10,-47.73
+ORD-0126,2022-05-09,2022-05-12,Rohit Joshi,Consumer,Central,Technology,Accessories,Webcam HD,6070.86,10,565.2
+ORD-0127,2022-07-29,2022-08-04,Rohit Joshi,Home Office,West,Office Supplies,Labels,Sticky Labels,62.32,1,13.47
+ORD-0128,2021-11-13,2021-11-17,Rajesh Khanna,Home Office,East,Furniture,Chairs,Executive Chair,597.25,2,110.45
+ORD-0129,2021-02-01,2021-02-03,Nikhil Bose,Corporate,South,Office Supplies,Envelopes,Brown Envelope,333.89,6,13.43
+ORD-0130,2021-11-29,2021-12-05,Ritu Agarwal,Consumer,East,Office Supplies,Binders,Avery Binder,205.45,1,4.61
+ORD-0131,2022-11-09,2022-11-14,Arun Pillai,Consumer,Central,Furniture,Furnishings,File Cabinet,1166.48,2,-58.44
+ORD-0132,2022-11-26,2022-12-03,Kavya Menon,Consumer,Central,Office Supplies,Art,Highlighters,2068.42,7,-155.85
+ORD-0133,2021-07-29,2021-08-02,Neha Gupta,Corporate,Central,Technology,Computers,Lenovo ThinkPad,1095.29,1,102.73
+ORD-0134,2021-05-13,2021-05-18,Rajesh Khanna,Consumer,Central,Office Supplies,Labels,Address Labels,136.5,1,14.59
+ORD-0135,2021-03-21,2021-03-25,Pooja Tiwari,Home Office,South,Office Supplies,Art,Highlighters,217.0,5,-19.66
+ORD-0136,2021-11-29,2021-12-02,Pooja Tiwari,Consumer,Central,Office Supplies,Art,Highlighters,161.12,2,26.58
+ORD-0137,2022-06-21,2022-06-23,Suresh Kumar,Consumer,Central,Furniture,Bookcases,Corner Bookcase,620.79,3,114.82
+ORD-0138,2022-06-28,2022-07-04,Neha Gupta,Consumer,East,Technology,Accessories,Dell Monitor,1982.23,3,-43.46
+ORD-0139,2021-06-06,2021-06-13,Manoj Mishra,Home Office,South,Technology,Computers,Acer Aspire,11408.32,8,3387.38
+ORD-0140,2022-10-21,2022-10-28,Nikhil Bose,Consumer,Central,Office Supplies,Storage,Drawer Tray,291.97,2,53.76
+ORD-0141,2023-03-27,2023-03-31,Nikhil Bose,Corporate,West,Office Supplies,Binders,Wilson Binder,167.25,8,11.03
+ORD-0142,2021-10-21,2021-10-23,Manoj Mishra,Corporate,South,Office Supplies,Binders,Staples Binder,2580.54,9,600.01
+ORD-0143,2021-02-12,2021-02-17,Divya Reddy,Home Office,Central,Office Supplies,Labels,Address Labels,483.75,9,-34.91
+ORD-0144,2021-04-16,2021-04-20,Kavya Menon,Consumer,East,Office Supplies,Binders,Staples Binder,2379.09,8,323.15
+ORD-0145,2022-09-17,2022-09-20,Suresh Kumar,Corporate,South,Furniture,Bookcases,Metal Shelf,1733.12,10,318.72
+ORD-0146,2021-12-09,2021-12-11,Ritu Agarwal,Corporate,Central,Furniture,Chairs,Gaming Chair,1700.12,3,275.82
+ORD-0147,2021-05-25,2021-05-29,Sneha Chauhan,Corporate,West,Furniture,Furnishings,Cabinet,7006.23,7,335.0
+ORD-0148,2021-05-11,2021-05-18,Pooja Tiwari,Home Office,West,Office Supplies,Labels,Sticky Labels,1034.37,9,65.34
+ORD-0149,2021-07-04,2021-07-07,Vikram Patel,Consumer,East,Furniture,Furnishings,Cabinet,1028.22,2,261.84
+ORD-0150,2022-06-04,2022-06-10,Vikram Patel,Home Office,Central,Office Supplies,Envelopes,Brown Envelope,1192.49,10,-32.18
+ORD-0151,2023-05-02,2023-05-09,Pooja Tiwari,Consumer,South,Office Supplies,Paper,Letterhead Paper,1236.87,6,8.52
+ORD-0152,2022-03-31,2022-04-06,Divya Reddy,Corporate,East,Furniture,Furnishings,Cabinet,2459.91,4,802.44
+ORD-0153,2022-03-28,2022-04-02,Ritu Agarwal,Consumer,East,Furniture,Furnishings,File Cabinet,3966.61,3,-303.52
+ORD-0154,2022-05-08,2022-05-12,Amit Verma,Corporate,West,Office Supplies,Binders,Staples Binder,267.33,3,82.17
+ORD-0155,2021-05-31,2021-06-05,Pooja Tiwari,Consumer,Central,Technology,Computers,Acer Aspire,913.62,1,62.38
+ORD-0156,2022-01-31,2022-02-02,Suresh Kumar,Consumer,Central,Furniture,Tables,Conference Table,877.92,3,25.54
+ORD-0157,2023-04-30,2023-05-05,Ritu Agarwal,Corporate,South,Office Supplies,Paper,Letterhead Paper,272.7,1,-24.94
+ORD-0158,2021-08-09,2021-08-12,Anjali Dubey,Consumer,South,Office Supplies,Labels,Sticky Labels,389.34,4,-30.57
+ORD-0159,2022-03-06,2022-03-13,Ritu Agarwal,Corporate,West,Office Supplies,Art,Sketch Pens,132.9,9,17.53
+ORD-0160,2021-09-05,2021-09-12,Meera Iyer,Home Office,West,Technology,Accessories,USB Hub,4908.78,4,-77.11
+ORD-0161,2022-11-16,2022-11-18,Divya Reddy,Corporate,West,Office Supplies,Storage,Storage Box,194.34,1,66.36
+ORD-0162,2021-09-17,2021-09-24,Neha Gupta,Consumer,Central,Technology,Accessories,Logitech Mouse,15233.37,10,756.08
+ORD-0163,2021-02-15,2021-02-19,Nikhil Bose,Home Office,East,Office Supplies,Storage,Drawer Tray,1545.63,8,409.86
+ORD-0164,2021-03-06,2021-03-13,Arjun Nair,Consumer,East,Furniture,Chairs,Mesh Chair,541.83,1,21.42
+ORD-0165,2022-02-12,2022-02-18,Meera Iyer,Corporate,East,Furniture,Bookcases,Wood Bookcase,1312.12,1,64.77
+ORD-0166,2021-05-08,2021-05-12,Sunita Rao,Corporate,South,Furniture,Furnishings,File Cabinet,8551.17,8,558.44
+ORD-0167,2023-03-28,2023-04-03,Ritu Agarwal,Corporate,West,Furniture,Chairs,Gaming Chair,2590.99,3,115.42
+ORD-0168,2021-03-23,2021-03-27,Pooja Tiwari,Home Office,South,Office Supplies,Storage,File Organizer,630.1,3,36.67
+ORD-0169,2021-02-13,2021-02-20,Rajesh Khanna,Consumer,West,Furniture,Furnishings,Drawer Unit,4909.92,6,1165.88
+ORD-0170,2021-06-13,2021-06-15,Kavya Menon,Consumer,East,Technology,Copiers,Canon Copier,5111.23,6,1672.7
+ORD-0171,2021-02-03,2021-02-09,Amit Verma,Corporate,Central,Technology,Copiers,HP LaserJet,4478.51,10,291.67
+ORD-0172,2021-11-18,2021-11-25,Sunita Rao,Home Office,West,Furniture,Tables,Conference Table,6598.75,8,2052.83
+ORD-0173,2021-05-01,2021-05-05,Divya Reddy,Home Office,Central,Furniture,Furnishings,Cabinet,1086.77,4,308.39
+ORD-0174,2022-04-08,2022-04-11,Meera Iyer,Home Office,Central,Office Supplies,Art,Sketch Pens,339.0,2,10.39
+ORD-0175,2021-11-04,2021-11-07,Arun Pillai,Corporate,East,Office Supplies,Labels,Sticky Labels,180.78,4,-1.73
+ORD-0176,2021-05-23,2021-05-26,Sneha Chauhan,Corporate,Central,Furniture,Chairs,Mesh Chair,2870.18,3,-175.66
+ORD-0177,2021-11-13,2021-11-18,Manoj Mishra,Corporate,South,Office Supplies,Labels,Name Tags,92.69,2,3.95
+ORD-0178,2021-03-17,2021-03-22,Pooja Tiwari,Consumer,East,Furniture,Bookcases,Wood Bookcase,12374.97,9,-928.92
+ORD-0179,2021-05-08,2021-05-14,Kavya Menon,Corporate,East,Technology,Accessories,HP Keyboard,11432.82,6,1526.33
+ORD-0180,2021-10-18,2021-10-20,Anjali Dubey,Home Office,East,Furniture,Tables,Coffee Table,8468.69,10,1068.39
+ORD-0181,2021-06-22,2021-06-28,Priya Singh,Home Office,Central,Office Supplies,Paper,A4 Paper Ream,33.55,1,10.97
+ORD-0182,2023-03-01,2023-03-07,Sneha Chauhan,Corporate,West,Furniture,Tables,Folding Table,4993.35,5,179.47
+ORD-0183,2021-09-08,2021-09-15,Priya Singh,Home Office,West,Furniture,Bookcases,Metal Shelf,2146.34,3,253.08
+ORD-0184,2021-07-28,2021-08-01,Meera Iyer,Home Office,Central,Office Supplies,Paper,Photo Paper,335.46,7,22.39
+ORD-0185,2022-07-30,2022-08-01,Nikhil Bose,Corporate,West,Furniture,Tables,Folding Table,1188.91,4,-91.82
+ORD-0186,2023-08-27,2023-09-01,Manoj Mishra,Corporate,East,Office Supplies,Art,Sketch Pens,390.31,6,-11.04
+ORD-0187,2022-06-12,2022-06-17,Rajesh Khanna,Consumer,West,Furniture,Bookcases,Metal Shelf,6661.11,9,55.47
+ORD-0188,2022-08-21,2022-08-25,Divya Reddy,Home Office,South,Technology,Phones,OnePlus Nord,5830.22,5,1639.62
+ORD-0189,2022-03-18,2022-03-21,Rajesh Khanna,Consumer,Central,Furniture,Bookcases,Metal Shelf,898.39,1,-11.14
+ORD-0190,2022-07-21,2022-07-25,Ritu Agarwal,Home Office,Central,Technology,Copiers,Epson Printer,863.19,2,-48.76
+ORD-0191,2022-01-18,2022-01-22,Arun Pillai,Home Office,East,Office Supplies,Storage,Storage Box,1085.16,7,-86.39
+ORD-0192,2021-05-21,2021-05-28,Arun Pillai,Home Office,East,Furniture,Furnishings,File Cabinet,1677.46,3,295.03
+ORD-0193,2021-06-16,2021-06-21,Arun Pillai,Home Office,Central,Office Supplies,Labels,Name Tags,1368.5,9,209.81
+ORD-0194,2022-05-02,2022-05-04,Manoj Mishra,Corporate,West,Furniture,Bookcases,Corner Bookcase,6077.28,5,1375.87
+ORD-0195,2022-12-06,2022-12-13,Priya Singh,Home Office,East,Technology,Copiers,HP LaserJet,10648.08,10,1447.12
+ORD-0196,2023-01-09,2023-01-15,Neha Gupta,Home Office,West,Furniture,Tables,Standing Desk,506.05,4,20.83
+ORD-0197,2021-06-05,2021-06-10,Priya Singh,Home Office,South,Office Supplies,Paper,Photo Paper,481.25,3,73.34
+ORD-0198,2022-11-10,2022-11-15,Sneha Chauhan,Corporate,East,Office Supplies,Art,Markers Set,1010.52,6,206.29
+ORD-0199,2023-06-08,2023-06-15,Divya Reddy,Home Office,Central,Office Supplies,Labels,Sticky Labels,1150.51,4,29.4
+ORD-0200,2021-11-02,2021-11-05,Divya Reddy,Home Office,East,Furniture,Bookcases,Corner Bookcase,4630.35,6,704.83
+ORD-0201,2023-08-15,2023-08-22,Meera Iyer,Corporate,South,Furniture,Bookcases,Wood Bookcase,1519.9,3,44.74
+ORD-0202,2023-01-02,2023-01-04,Arjun Nair,Consumer,South,Furniture,Furnishings,Drawer Unit,4316.27,9,659.99
+ORD-0203,2021-10-06,2021-10-09,Arun Pillai,Home Office,West,Technology,Computers,HP Pavilion,5393.2,4,-411.93
+ORD-0204,2022-02-28,2022-03-04,Sneha Chauhan,Consumer,East,Office Supplies,Art,Sketch Pens,384.01,3,123.18
+ORD-0205,2023-06-19,2023-06-24,Priya Singh,Corporate,Central,Furniture,Tables,Coffee Table,2026.44,2,9.12
+ORD-0206,2023-01-27,2023-02-03,Rajesh Khanna,Consumer,East,Technology,Computers,Acer Aspire,4282.89,8,1015.27
+ORD-0207,2023-06-13,2023-06-17,Anjali Dubey,Corporate,West,Technology,Phones,OnePlus Nord,15843.03,8,2289.08
+ORD-0208,2022-05-21,2022-05-24,Suresh Kumar,Consumer,East,Office Supplies,Art,Markers Set,666.07,3,127.7
+ORD-0209,2023-01-06,2023-01-09,Ritu Agarwal,Consumer,East,Technology,Accessories,Dell Monitor,11820.07,7,1558.79
+ORD-0210,2021-03-30,2021-04-04,Suresh Kumar,Corporate,East,Office Supplies,Binders,Avery Binder,47.92,4,3.48
+ORD-0211,2022-04-03,2022-04-07,Meera Iyer,Corporate,West,Furniture,Bookcases,Corner Bookcase,747.9,4,-35.0
+ORD-0212,2021-11-11,2021-11-14,Anjali Dubey,Home Office,West,Furniture,Bookcases,Corner Bookcase,5762.85,6,-8.02
+ORD-0213,2021-05-17,2021-05-22,Sneha Chauhan,Home Office,South,Technology,Copiers,HP LaserJet,12505.85,8,3262.75
+ORD-0214,2023-04-26,2023-04-29,Meera Iyer,Home Office,South,Technology,Phones,Vivo V23,3702.08,2,-183.28
+ORD-0215,2023-04-29,2023-05-05,Suresh Kumar,Consumer,East,Office Supplies,Paper,Letterhead Paper,1243.2,9,256.26
+ORD-0216,2023-01-05,2023-01-11,Vikram Patel,Corporate,West,Furniture,Chairs,Gaming Chair,6134.35,9,943.22
+ORD-0217,2022-07-27,2022-08-01,Rohit Joshi,Corporate,West,Office Supplies,Storage,Drawer Tray,226.28,1,36.26
+ORD-0218,2021-02-16,2021-02-21,Priya Singh,Corporate,West,Furniture,Chairs,Ergonomic Chair,3362.07,5,827.2
+ORD-0219,2023-02-24,2023-03-03,Nikhil Bose,Corporate,Central,Office Supplies,Labels,Name Tags,832.56,7,172.53
+ORD-0220,2022-11-09,2022-11-15,Rajesh Khanna,Home Office,East,Technology,Accessories,Logitech Mouse,3863.02,9,1315.07
+ORD-0221,2023-05-05,2023-05-07,Rajesh Khanna,Home Office,South,Technology,Accessories,USB Hub,2582.09,4,144.01
+ORD-0222,2021-10-10,2021-10-13,Rahul Sharma,Home Office,South,Office Supplies,Binders,Avery Binder,279.05,4,-15.24
+ORD-0223,2021-02-04,2021-02-09,Priya Singh,Consumer,West,Office Supplies,Labels,Sticky Labels,961.09,7,137.33
+ORD-0224,2023-02-12,2023-02-14,Ritu Agarwal,Home Office,Central,Technology,Accessories,HP Keyboard,3758.56,6,1106.21
+ORD-0225,2022-11-08,2022-11-14,Sneha Chauhan,Consumer,Central,Technology,Copiers,HP LaserJet,17834.85,10,5532.55
+ORD-0226,2022-10-04,2022-10-11,Rajesh Khanna,Home Office,Central,Furniture,Furnishings,Desk Lamp,4916.05,9,429.4
+ORD-0227,2021-06-02,2021-06-06,Anjali Dubey,Consumer,East,Furniture,Tables,Folding Table,3684.26,3,1148.14
+ORD-0228,2022-07-30,2022-08-04,Arjun Nair,Corporate,East,Furniture,Tables,Folding Table,6032.33,6,1900.19
+ORD-0229,2023-05-18,2023-05-22,Ritu Agarwal,Corporate,Central,Technology,Computers,Dell Inspiron,2711.86,10,-182.36
+ORD-0230,2023-04-04,2023-04-10,Arjun Nair,Corporate,East,Office Supplies,Labels,Sticky Labels,587.55,6,181.58
+ORD-0231,2021-08-05,2021-08-08,Ritu Agarwal,Consumer,South,Office Supplies,Binders,Staples Binder,500.09,4,3.85
+ORD-0232,2021-11-26,2021-11-30,Meera Iyer,Corporate,Central,Furniture,Furnishings,Drawer Unit,12023.43,9,1318.99
+ORD-0233,2023-04-03,2023-04-10,Pooja Tiwari,Corporate,Central,Furniture,Bookcases,Wood Bookcase,887.53,1,-0.38
+ORD-0234,2021-05-30,2021-06-01,Suresh Kumar,Consumer,East,Furniture,Furnishings,Drawer Unit,2527.1,4,694.99
+ORD-0235,2022-05-27,2022-06-02,Divya Reddy,Corporate,Central,Office Supplies,Labels,Name Tags,470.3,8,121.21
+ORD-0236,2021-06-23,2021-06-26,Priya Singh,Home Office,East,Office Supplies,Envelopes,Bubble Mailer,178.28,9,50.1
+ORD-0237,2023-08-26,2023-09-02,Kavya Menon,Home Office,East,Technology,Phones,Redmi Note,2945.81,2,-282.46
+ORD-0238,2022-06-02,2022-06-07,Rahul Sharma,Consumer,South,Furniture,Chairs,Gaming Chair,7850.71,9,-743.2
+ORD-0239,2022-06-27,2022-07-04,Neha Gupta,Consumer,South,Furniture,Bookcases,Wood Bookcase,1668.28,2,14.07
+ORD-0240,2022-09-27,2022-10-03,Meera Iyer,Consumer,South,Furniture,Bookcases,Metal Shelf,5198.18,7,49.09
+ORD-0241,2022-12-15,2022-12-18,Rajesh Khanna,Corporate,West,Furniture,Chairs,Ergonomic Chair,6116.47,7,-457.2
+ORD-0242,2021-01-10,2021-01-17,Suresh Kumar,Home Office,South,Technology,Phones,Redmi Note,19591.93,10,6626.54
+ORD-0243,2023-07-06,2023-07-12,Priya Singh,Corporate,South,Technology,Computers,HP Pavilion,2863.94,2,74.94
+ORD-0244,2022-07-11,2022-07-17,Arjun Nair,Consumer,Central,Office Supplies,Binders,Avery Binder,518.16,10,139.55
+ORD-0245,2023-04-21,2023-04-26,Rajesh Khanna,Home Office,East,Technology,Accessories,HP Keyboard,7174.02,9,1721.94
+ORD-0246,2021-05-24,2021-05-31,Neha Gupta,Consumer,Central,Office Supplies,Binders,Staples Binder,541.25,7,-35.61
+ORD-0247,2022-09-12,2022-09-18,Rohit Joshi,Home Office,West,Office Supplies,Art,Markers Set,1218.2,8,73.23
+ORD-0248,2023-08-22,2023-08-27,Anjali Dubey,Home Office,West,Furniture,Tables,Folding Table,4393.41,4,-277.15
+ORD-0249,2021-06-07,2021-06-12,Meera Iyer,Corporate,South,Office Supplies,Labels,Address Labels,73.08,2,23.7
+ORD-0250,2022-04-01,2022-04-05,Pooja Tiwari,Consumer,West,Furniture,Chairs,Executive Chair,7038.23,8,919.18
+ORD-0251,2021-04-16,2021-04-18,Ritu Agarwal,Home Office,West,Technology,Accessories,Webcam HD,10528.16,6,-994.35
+ORD-0252,2022-02-28,2022-03-05,Rajesh Khanna,Home Office,East,Technology,Computers,Asus VivoBook,1349.74,3,47.93
+ORD-0253,2022-05-20,2022-05-23,Anjali Dubey,Corporate,Central,Technology,Computers,Acer Aspire,12870.4,8,804.48
+ORD-0254,2023-08-25,2023-08-28,Neha Gupta,Corporate,East,Office Supplies,Labels,Name Tags,295.05,3,96.47
+ORD-0255,2021-12-07,2021-12-13,Ritu Agarwal,Corporate,Central,Furniture,Bookcases,Metal Shelf,1561.83,3,267.77
+ORD-0256,2022-12-13,2022-12-16,Anjali Dubey,Corporate,South,Furniture,Bookcases,Wood Bookcase,11638.95,8,2931.72
+ORD-0257,2021-11-30,2021-12-05,Arjun Nair,Home Office,West,Furniture,Furnishings,Drawer Unit,14961.71,10,-284.76
+ORD-0258,2023-02-26,2023-03-04,Amit Verma,Corporate,South,Technology,Copiers,Xerox WorkCentre,9879.52,7,-369.19
+ORD-0259,2021-11-07,2021-11-10,Nikhil Bose,Consumer,South,Furniture,Tables,Folding Table,7709.29,10,619.54
+ORD-0260,2022-06-03,2022-06-10,Kavya Menon,Consumer,West,Furniture,Chairs,Mesh Chair,1997.24,6,350.93
+ORD-0261,2022-07-31,2022-08-07,Neha Gupta,Corporate,Central,Office Supplies,Labels,Name Tags,38.6,1,-0.0
+ORD-0262,2023-02-04,2023-02-10,Meera Iyer,Corporate,East,Office Supplies,Envelopes,Letter Envelope,1010.02,7,207.86
+ORD-0263,2022-12-09,2022-12-15,Anjali Dubey,Consumer,South,Technology,Accessories,Logitech Mouse,12998.9,7,-797.68
+ORD-0264,2023-05-02,2023-05-09,Arjun Nair,Corporate,Central,Technology,Accessories,Dell Monitor,9623.4,9,1099.7
+ORD-0265,2022-03-25,2022-04-01,Priya Singh,Corporate,West,Office Supplies,Art,Markers Set,33.1,2,1.8
+ORD-0266,2021-04-22,2021-04-29,Sunita Rao,Home Office,East,Technology,Computers,Asus VivoBook,7246.37,6,2400.78
+ORD-0267,2021-08-26,2021-08-31,Rahul Sharma,Corporate,South,Office Supplies,Paper,A4 Paper Ream,2660.98,10,272.24
+ORD-0268,2022-03-16,2022-03-21,Amit Verma,Home Office,Central,Technology,Computers,HP Pavilion,3831.54,10,1120.31
+ORD-0269,2021-07-11,2021-07-15,Divya Reddy,Corporate,West,Furniture,Tables,Folding Table,13070.55,9,536.31
+ORD-0270,2022-02-02,2022-02-08,Ritu Agarwal,Corporate,Central,Furniture,Chairs,Mesh Chair,3717.7,3,809.32
+ORD-0271,2021-11-01,2021-11-07,Neha Gupta,Corporate,East,Office Supplies,Binders,Staples Binder,394.24,4,-6.95
+ORD-0272,2022-12-12,2022-12-15,Rajesh Khanna,Home Office,East,Office Supplies,Art,Markers Set,447.08,7,83.15
+ORD-0273,2022-12-12,2022-12-19,Sunita Rao,Consumer,Central,Technology,Computers,Acer Aspire,10293.44,6,1839.79
+ORD-0274,2023-06-06,2023-06-10,Sneha Chauhan,Corporate,East,Technology,Copiers,Xerox WorkCentre,12379.73,9,1041.26
+ORD-0275,2022-05-19,2022-05-24,Manoj Mishra,Consumer,East,Office Supplies,Art,Markers Set,240.81,1,-0.18
+ORD-0276,2021-02-03,2021-02-07,Divya Reddy,Home Office,South,Technology,Accessories,HP Keyboard,10075.06,9,1589.05
+ORD-0277,2021-10-02,2021-10-08,Neha Gupta,Corporate,East,Furniture,Chairs,Gaming Chair,2067.17,4,722.87
+ORD-0278,2022-04-06,2022-04-10,Arjun Nair,Consumer,West,Furniture,Chairs,Gaming Chair,10647.87,10,3060.96
+ORD-0279,2022-09-17,2022-09-24,Priya Singh,Consumer,East,Furniture,Tables,Standing Desk,5911.42,10,156.58
+ORD-0280,2022-07-06,2022-07-09,Neha Gupta,Home Office,Central,Furniture,Bookcases,Metal Shelf,4343.64,3,1101.38
+ORD-0281,2023-07-30,2023-08-01,Suresh Kumar,Consumer,East,Furniture,Tables,Standing Desk,4664.25,4,952.93
+ORD-0282,2022-05-17,2022-05-20,Nikhil Bose,Corporate,South,Office Supplies,Labels,Name Tags,387.5,2,114.72
+ORD-0283,2021-04-06,2021-04-11,Divya Reddy,Corporate,Central,Office Supplies,Labels,Name Tags,1072.6,6,312.14
+ORD-0284,2023-05-18,2023-05-25,Rajesh Khanna,Home Office,West,Technology,Copiers,HP LaserJet,7770.53,4,2107.22
+ORD-0285,2022-05-22,2022-05-26,Divya Reddy,Home Office,East,Furniture,Bookcases,Metal Shelf,8110.9,6,1971.06
+ORD-0286,2021-02-17,2021-02-19,Nikhil Bose,Consumer,West,Office Supplies,Art,Sketch Pens,81.57,8,27.01
+ORD-0287,2021-07-27,2021-08-03,Meera Iyer,Consumer,Central,Technology,Accessories,HP Keyboard,1741.78,5,346.66
+ORD-0288,2022-10-27,2022-10-30,Amit Verma,Corporate,East,Technology,Copiers,HP LaserJet,403.91,2,46.27
+ORD-0289,2021-05-16,2021-05-22,Suresh Kumar,Home Office,West,Technology,Copiers,Canon Copier,3957.36,2,356.33
+ORD-0290,2021-05-16,2021-05-21,Neha Gupta,Home Office,West,Technology,Computers,Acer Aspire,1528.07,2,452.99
+ORD-0291,2021-05-21,2021-05-26,Sunita Rao,Home Office,West,Technology,Computers,Dell Inspiron,6657.1,8,-27.46
+ORD-0292,2023-02-06,2023-02-09,Vikram Patel,Consumer,West,Furniture,Furnishings,Cabinet,1850.81,2,134.77
+ORD-0293,2023-09-14,2023-09-19,Amit Verma,Home Office,Central,Furniture,Tables,Standing Desk,3499.02,4,594.85
+ORD-0294,2022-09-15,2022-09-19,Arun Pillai,Consumer,Central,Office Supplies,Binders,Staples Binder,1577.62,10,373.15
+ORD-0295,2021-10-30,2021-11-06,Kavya Menon,Consumer,South,Technology,Computers,Acer Aspire,10788.39,8,-734.09
+ORD-0296,2023-06-30,2023-07-02,Pooja Tiwari,Home Office,South,Furniture,Bookcases,Wood Bookcase,5189.39,6,-115.48
+ORD-0297,2022-04-28,2022-04-30,Priya Singh,Consumer,Central,Technology,Phones,Samsung Galaxy,1907.62,1,150.87
+ORD-0298,2021-10-21,2021-10-28,Rajesh Khanna,Home Office,South,Office Supplies,Envelopes,Bubble Mailer,391.51,2,55.57
+ORD-0299,2021-06-06,2021-06-10,Sneha Chauhan,Consumer,East,Technology,Accessories,Logitech Mouse,5419.9,6,1005.03
+ORD-0300,2023-05-05,2023-05-12,Pooja Tiwari,Home Office,Central,Office Supplies,Labels,Address Labels,107.17,4,-6.56
+ORD-0301,2022-03-21,2022-03-23,Rahul Sharma,Consumer,East,Furniture,Chairs,Mesh Chair,3246.3,3,-85.3
+ORD-0302,2023-09-03,2023-09-07,Meera Iyer,Consumer,Central,Office Supplies,Envelopes,Letter Envelope,682.31,3,199.96
+ORD-0303,2023-01-21,2023-01-23,Amit Verma,Home Office,Central,Technology,Accessories,USB Hub,7410.91,5,1181.99
+ORD-0304,2021-03-20,2021-03-25,Sunita Rao,Home Office,South,Furniture,Bookcases,Wood Bookcase,1921.4,6,476.5
+ORD-0305,2023-07-05,2023-07-11,Arun Pillai,Home Office,East,Office Supplies,Labels,Address Labels,22.77,1,6.56
+ORD-0306,2021-09-08,2021-09-10,Priya Singh,Consumer,East,Furniture,Bookcases,Metal Shelf,11019.26,9,2438.67
+ORD-0307,2022-11-03,2022-11-08,Suresh Kumar,Home Office,South,Technology,Accessories,HP Keyboard,8433.97,5,1325.75
+ORD-0308,2021-05-03,2021-05-09,Priya Singh,Home Office,East,Office Supplies,Binders,Avery Binder,209.92,7,22.94
+ORD-0309,2021-10-17,2021-10-21,Arjun Nair,Corporate,West,Furniture,Chairs,Gaming Chair,4446.65,5,163.46
+ORD-0310,2022-09-30,2022-10-03,Sneha Chauhan,Consumer,South,Furniture,Bookcases,Corner Bookcase,1243.17,4,397.29
+ORD-0311,2021-01-25,2021-01-28,Rahul Sharma,Corporate,West,Office Supplies,Storage,Drawer Tray,1793.48,7,407.56
+ORD-0312,2021-04-17,2021-04-20,Vikram Patel,Consumer,South,Office Supplies,Paper,Photo Paper,184.89,5,58.16
+ORD-0313,2023-07-08,2023-07-14,Neha Gupta,Home Office,West,Furniture,Bookcases,Metal Shelf,2582.27,9,694.59
+ORD-0314,2021-03-18,2021-03-24,Anjali Dubey,Consumer,East,Office Supplies,Binders,Wilson Binder,1283.82,5,406.61
+ORD-0315,2022-02-07,2022-02-14,Kavya Menon,Corporate,South,Office Supplies,Storage,File Organizer,567.26,2,-21.98
+ORD-0316,2023-02-28,2023-03-06,Nikhil Bose,Corporate,East,Technology,Computers,Dell Inspiron,5590.34,6,789.17
+ORD-0317,2023-09-15,2023-09-18,Amit Verma,Consumer,Central,Furniture,Bookcases,Metal Shelf,3691.91,3,136.22
+ORD-0318,2022-12-23,2022-12-30,Amit Verma,Consumer,Central,Office Supplies,Binders,Avery Binder,1163.34,4,91.1
+ORD-0319,2021-02-20,2021-02-27,Nikhil Bose,Corporate,West,Furniture,Bookcases,Wood Bookcase,10325.79,9,128.39
+ORD-0320,2022-04-19,2022-04-21,Vikram Patel,Consumer,West,Technology,Phones,Samsung Galaxy,6730.45,4,454.36
+ORD-0321,2022-10-08,2022-10-15,Arjun Nair,Consumer,West,Technology,Accessories,Logitech Mouse,13253.9,8,-776.81
+ORD-0322,2023-05-18,2023-05-22,Manoj Mishra,Consumer,West,Technology,Phones,Redmi Note,11753.24,7,913.81
+ORD-0323,2021-01-31,2021-02-05,Sunita Rao,Consumer,Central,Office Supplies,Art,Sketch Pens,455.79,5,135.62
+ORD-0324,2021-02-05,2021-02-11,Pooja Tiwari,Corporate,Central,Office Supplies,Envelopes,Brown Envelope,1340.27,9,-81.12
+ORD-0325,2022-01-28,2022-01-31,Meera Iyer,Corporate,West,Furniture,Tables,Standing Desk,6898.6,8,814.76
+ORD-0326,2023-07-24,2023-07-30,Rahul Sharma,Consumer,Central,Office Supplies,Storage,File Organizer,1098.98,6,-95.41
+ORD-0327,2023-04-11,2023-04-15,Neha Gupta,Consumer,East,Technology,Copiers,HP LaserJet,5529.42,4,110.24
+ORD-0328,2023-04-16,2023-04-23,Sunita Rao,Corporate,South,Technology,Computers,Asus VivoBook,1877.38,3,80.92
+ORD-0329,2023-01-26,2023-02-02,Arjun Nair,Home Office,East,Furniture,Chairs,Mesh Chair,6871.8,8,-144.3
+ORD-0330,2021-02-08,2021-02-10,Arun Pillai,Consumer,East,Technology,Computers,Asus VivoBook,1609.84,8,503.97
+ORD-0331,2021-07-26,2021-07-29,Vikram Patel,Consumer,West,Furniture,Tables,Coffee Table,10865.75,10,-393.95
+ORD-0332,2021-04-24,2021-04-30,Neha Gupta,Home Office,South,Furniture,Chairs,Mesh Chair,3134.83,6,-120.99
+ORD-0333,2021-06-11,2021-06-18,Sneha Chauhan,Home Office,East,Furniture,Furnishings,Drawer Unit,12017.89,10,5.49
+ORD-0334,2022-08-27,2022-08-30,Sunita Rao,Consumer,Central,Furniture,Bookcases,Corner Bookcase,1428.3,1,466.93
+ORD-0335,2022-02-05,2022-02-11,Kavya Menon,Home Office,Central,Technology,Computers,Asus VivoBook,3873.98,10,477.6
+ORD-0336,2021-12-06,2021-12-13,Amit Verma,Consumer,Central,Technology,Computers,Lenovo ThinkPad,6023.6,6,116.53
+ORD-0337,2021-09-13,2021-09-20,Rahul Sharma,Home Office,West,Technology,Accessories,Dell Monitor,894.69,1,205.48
+ORD-0338,2023-09-20,2023-09-23,Rajesh Khanna,Home Office,Central,Furniture,Furnishings,File Cabinet,2520.66,2,642.59
+ORD-0339,2022-08-15,2022-08-22,Priya Singh,Consumer,South,Office Supplies,Paper,A4 Paper Ream,79.11,5,1.39
+ORD-0340,2021-04-18,2021-04-20,Amit Verma,Home Office,East,Furniture,Tables,Folding Table,12767.11,9,4342.33
+ORD-0341,2021-12-13,2021-12-19,Sunita Rao,Corporate,West,Office Supplies,Art,Highlighters,2680.28,10,-78.54
+ORD-0342,2021-04-14,2021-04-18,Anjali Dubey,Home Office,Central,Technology,Computers,Acer Aspire,3137.93,5,-243.7
+ORD-0343,2022-08-09,2022-08-15,Pooja Tiwari,Consumer,Central,Furniture,Tables,Conference Table,1024.74,2,202.81
+ORD-0344,2022-09-07,2022-09-12,Anjali Dubey,Consumer,East,Technology,Phones,Samsung Galaxy,2104.85,2,-101.08
+ORD-0345,2023-03-15,2023-03-20,Sneha Chauhan,Home Office,West,Furniture,Furnishings,Drawer Unit,2511.84,7,749.71
+ORD-0346,2022-01-14,2022-01-17,Rohit Joshi,Corporate,South,Furniture,Chairs,Mesh Chair,5087.64,4,783.04
+ORD-0347,2021-06-04,2021-06-11,Pooja Tiwari,Home Office,Central,Office Supplies,Binders,Avery Binder,759.79,10,-55.13
+ORD-0348,2022-02-01,2022-02-07,Amit Verma,Corporate,South,Furniture,Furnishings,Cabinet,9547.22,7,2114.11
+ORD-0349,2022-05-30,2022-06-05,Nikhil Bose,Consumer,East,Office Supplies,Envelopes,Letter Envelope,855.68,3,-21.2
+ORD-0350,2021-08-05,2021-08-08,Pooja Tiwari,Home Office,West,Technology,Phones,Redmi Note,7980.34,4,1454.43
+ORD-0351,2023-05-05,2023-05-11,Rajesh Khanna,Consumer,West,Furniture,Bookcases,Corner Bookcase,5906.67,9,276.18
+ORD-0352,2021-10-10,2021-10-16,Vikram Patel,Corporate,West,Furniture,Chairs,Gaming Chair,2679.69,3,434.66
+ORD-0353,2023-09-15,2023-09-17,Rohit Joshi,Corporate,Central,Technology,Phones,OnePlus Nord,9650.32,7,1519.06
+ORD-0354,2022-04-30,2022-05-02,Ritu Agarwal,Home Office,East,Technology,Accessories,USB Hub,1888.66,7,567.18
+ORD-0355,2021-12-06,2021-12-13,Rahul Sharma,Corporate,Central,Technology,Phones,Redmi Note,10027.77,6,364.76
+ORD-0356,2021-10-15,2021-10-20,Anjali Dubey,Consumer,East,Office Supplies,Labels,Address Labels,1875.75,8,83.27
+ORD-0357,2023-01-17,2023-01-22,Arjun Nair,Corporate,East,Office Supplies,Labels,Address Labels,1574.12,7,380.58
+ORD-0358,2023-06-08,2023-06-12,Arun Pillai,Home Office,Central,Technology,Computers,Dell Inspiron,3109.19,7,880.16
+ORD-0359,2023-06-20,2023-06-26,Kavya Menon,Consumer,East,Technology,Computers,HP Pavilion,1021.61,1,319.88
+ORD-0360,2022-12-23,2022-12-26,Neha Gupta,Home Office,South,Furniture,Bookcases,Metal Shelf,438.71,1,52.63
+ORD-0361,2022-04-02,2022-04-05,Amit Verma,Corporate,East,Furniture,Bookcases,Metal Shelf,692.15,5,-53.75
+ORD-0362,2023-05-25,2023-05-31,Pooja Tiwari,Corporate,East,Technology,Computers,HP Pavilion,2124.85,9,533.63
+ORD-0363,2023-02-25,2023-03-04,Rahul Sharma,Home Office,East,Technology,Copiers,Xerox WorkCentre,2617.21,4,686.46
+ORD-0364,2021-11-09,2021-11-16,Meera Iyer,Corporate,South,Office Supplies,Labels,Name Tags,664.64,8,73.12
+ORD-0365,2022-11-25,2022-12-01,Arun Pillai,Consumer,West,Office Supplies,Art,Highlighters,1036.94,6,173.37
+ORD-0366,2021-10-17,2021-10-21,Rohit Joshi,Corporate,West,Office Supplies,Binders,Wilson Binder,1559.0,6,27.31
+ORD-0367,2022-12-30,2023-01-06,Ritu Agarwal,Consumer,East,Furniture,Tables,Standing Desk,7173.2,7,1480.12
+ORD-0368,2023-01-09,2023-01-11,Rajesh Khanna,Corporate,Central,Office Supplies,Art,Markers Set,1565.57,7,254.19
+ORD-0369,2022-08-09,2022-08-12,Anjali Dubey,Home Office,Central,Furniture,Tables,Folding Table,3830.68,3,1127.84
+ORD-0370,2021-07-05,2021-07-09,Sneha Chauhan,Home Office,Central,Technology,Copiers,Xerox WorkCentre,5713.39,3,1741.53
+ORD-0371,2022-11-02,2022-11-04,Suresh Kumar,Corporate,Central,Technology,Accessories,HP Keyboard,4014.04,6,129.75
+ORD-0372,2023-05-22,2023-05-24,Arun Pillai,Consumer,South,Furniture,Chairs,Ergonomic Chair,2628.99,2,188.63
+ORD-0373,2021-11-02,2021-11-07,Pooja Tiwari,Corporate,East,Technology,Computers,HP Pavilion,18071.21,10,6216.35
+ORD-0374,2021-05-27,2021-05-31,Sunita Rao,Corporate,South,Office Supplies,Paper,A4 Paper Ream,1164.03,6,-113.93
+ORD-0375,2021-10-08,2021-10-11,Ritu Agarwal,Consumer,West,Technology,Computers,Acer Aspire,9381.94,7,764.88
+ORD-0376,2023-09-16,2023-09-21,Meera Iyer,Home Office,East,Furniture,Chairs,Ergonomic Chair,1348.81,1,324.5
+ORD-0377,2022-06-28,2022-07-01,Meera Iyer,Home Office,East,Technology,Phones,iPhone 14,2160.38,5,156.84
+ORD-0378,2022-08-26,2022-08-30,Nikhil Bose,Corporate,Central,Technology,Phones,Samsung Galaxy,11461.19,9,596.28
+ORD-0379,2023-06-29,2023-07-06,Sunita Rao,Consumer,Central,Technology,Accessories,USB Hub,1640.97,7,1.55
+ORD-0380,2021-05-15,2021-05-18,Meera Iyer,Consumer,East,Office Supplies,Binders,Staples Binder,118.81,1,22.35
+ORD-0381,2023-03-01,2023-03-07,Neha Gupta,Home Office,West,Office Supplies,Binders,Staples Binder,23.99,1,-1.15
+ORD-0382,2022-03-31,2022-04-05,Rahul Sharma,Consumer,East,Technology,Accessories,USB Hub,4787.84,5,-261.22
+ORD-0383,2022-06-17,2022-06-21,Neha Gupta,Corporate,East,Office Supplies,Envelopes,Letter Envelope,1965.98,9,-92.44
+ORD-0384,2021-04-27,2021-04-29,Arjun Nair,Home Office,Central,Furniture,Tables,Standing Desk,6508.87,6,214.19
+ORD-0385,2021-02-10,2021-02-16,Rahul Sharma,Consumer,Central,Furniture,Tables,Folding Table,1040.29,1,320.51
+ORD-0386,2023-05-06,2023-05-12,Amit Verma,Home Office,West,Office Supplies,Art,Sketch Pens,544.77,2,103.48
+ORD-0387,2022-04-13,2022-04-17,Priya Singh,Consumer,West,Furniture,Furnishings,Desk Lamp,3021.5,5,618.03
+ORD-0388,2022-03-13,2022-03-20,Sunita Rao,Consumer,West,Technology,Phones,Samsung Galaxy,5061.3,6,490.8
+ORD-0389,2022-09-29,2022-10-03,Neha Gupta,Consumer,Central,Office Supplies,Binders,Wilson Binder,882.51,7,93.05
+ORD-0390,2023-05-06,2023-05-11,Vikram Patel,Consumer,East,Office Supplies,Art,Markers Set,294.66,1,82.49
+ORD-0391,2021-04-17,2021-04-22,Ritu Agarwal,Consumer,South,Office Supplies,Art,Highlighters,1651.7,7,289.23
+ORD-0392,2023-06-03,2023-06-10,Pooja Tiwari,Consumer,South,Office Supplies,Paper,Photo Paper,186.66,8,3.31
+ORD-0393,2021-11-18,2021-11-20,Suresh Kumar,Home Office,East,Office Supplies,Labels,Sticky Labels,1455.3,9,313.27
+ORD-0394,2021-04-08,2021-04-13,Rajesh Khanna,Corporate,South,Office Supplies,Labels,Address Labels,759.96,3,114.95
+ORD-0395,2022-09-20,2022-09-22,Sunita Rao,Corporate,South,Technology,Computers,Asus VivoBook,3105.15,2,137.51
+ORD-0396,2021-12-05,2021-12-09,Kavya Menon,Corporate,South,Technology,Computers,Asus VivoBook,2052.74,2,534.88
+ORD-0397,2022-04-04,2022-04-06,Rahul Sharma,Corporate,West,Furniture,Furnishings,Drawer Unit,1329.63,2,-111.52
+ORD-0398,2022-07-17,2022-07-19,Nikhil Bose,Home Office,East,Technology,Accessories,Webcam HD,5124.1,6,-387.26
+ORD-0399,2021-08-17,2021-08-22,Neha Gupta,Consumer,South,Furniture,Furnishings,Drawer Unit,412.3,4,24.66
+ORD-0400,2022-10-11,2022-10-15,Sunita Rao,Consumer,West,Office Supplies,Envelopes,Bubble Mailer,405.84,8,90.33
+ORD-0401,2023-01-09,2023-01-14,Neha Gupta,Consumer,East,Technology,Accessories,Webcam HD,4116.43,7,1115.76
+ORD-0402,2021-07-15,2021-07-22,Manoj Mishra,Home Office,West,Furniture,Chairs,Gaming Chair,2362.01,2,242.64
+ORD-0403,2022-11-06,2022-11-12,Priya Singh,Home Office,West,Office Supplies,Paper,Photo Paper,2531.15,9,702.31
+ORD-0404,2022-05-10,2022-05-16,Ritu Agarwal,Corporate,West,Technology,Computers,HP Pavilion,17888.53,10,2269.15
+ORD-0405,2022-01-29,2022-02-03,Suresh Kumar,Corporate,Central,Office Supplies,Labels,Address Labels,706.63,5,-28.25
+ORD-0406,2022-02-27,2022-03-05,Sneha Chauhan,Home Office,Central,Office Supplies,Labels,Sticky Labels,1298.66,6,416.84
+ORD-0407,2022-10-10,2022-10-13,Meera Iyer,Home Office,Central,Technology,Computers,Asus VivoBook,5899.21,3,1135.83
+ORD-0408,2023-09-09,2023-09-12,Neha Gupta,Home Office,Central,Office Supplies,Envelopes,Letter Envelope,1038.37,6,168.49
+ORD-0409,2023-08-24,2023-08-31,Rahul Sharma,Corporate,Central,Office Supplies,Art,Highlighters,367.89,9,26.26
+ORD-0410,2021-02-24,2021-03-03,Rohit Joshi,Corporate,East,Technology,Computers,Lenovo ThinkPad,5132.66,3,1081.8
+ORD-0411,2021-10-30,2021-11-02,Ritu Agarwal,Consumer,South,Office Supplies,Binders,Wilson Binder,2347.24,9,549.46
+ORD-0412,2022-07-29,2022-08-03,Pooja Tiwari,Corporate,South,Technology,Accessories,Logitech Mouse,11631.0,6,-881.5
+ORD-0413,2023-02-01,2023-02-05,Sneha Chauhan,Home Office,Central,Technology,Copiers,Xerox WorkCentre,5536.44,10,1252.41
+ORD-0414,2021-07-18,2021-07-22,Arun Pillai,Consumer,East,Furniture,Tables,Conference Table,1256.16,2,116.61
+ORD-0415,2022-07-24,2022-07-28,Suresh Kumar,Consumer,Central,Technology,Computers,Asus VivoBook,11819.53,8,-358.57
+ORD-0416,2021-06-07,2021-06-11,Manoj Mishra,Corporate,Central,Office Supplies,Binders,Staples Binder,1024.6,9,259.03
+ORD-0417,2021-11-22,2021-11-28,Sunita Rao,Home Office,West,Technology,Computers,Asus VivoBook,8242.81,7,672.1
+ORD-0418,2021-12-24,2021-12-27,Arjun Nair,Corporate,Central,Technology,Accessories,Dell Monitor,11548.98,10,4024.63
+ORD-0419,2023-04-24,2023-05-01,Ritu Agarwal,Consumer,South,Technology,Phones,OnePlus Nord,6388.89,10,-524.24
+ORD-0420,2023-06-26,2023-06-30,Anjali Dubey,Home Office,Central,Furniture,Chairs,Gaming Chair,1375.87,1,371.41
+ORD-0421,2022-01-19,2022-01-25,Arjun Nair,Corporate,West,Office Supplies,Art,Markers Set,954.18,6,311.73
+ORD-0422,2021-06-21,2021-06-27,Arjun Nair,Consumer,West,Office Supplies,Binders,Staples Binder,1766.4,7,-13.23
+ORD-0423,2023-04-29,2023-05-06,Vikram Patel,Home Office,West,Office Supplies,Art,Highlighters,143.18,1,7.05
+ORD-0424,2021-03-31,2021-04-02,Kavya Menon,Home Office,West,Technology,Computers,Lenovo ThinkPad,4668.7,5,480.91
+ORD-0425,2022-02-19,2022-02-24,Rahul Sharma,Home Office,West,Furniture,Chairs,Gaming Chair,1885.33,10,444.33
+ORD-0426,2021-02-16,2021-02-23,Anjali Dubey,Corporate,West,Technology,Accessories,Webcam HD,3557.09,10,869.26
+ORD-0427,2022-03-25,2022-03-30,Kavya Menon,Home Office,East,Furniture,Chairs,Gaming Chair,3436.37,3,888.46
+ORD-0428,2023-05-20,2023-05-26,Sneha Chauhan,Consumer,Central,Furniture,Tables,Coffee Table,2681.31,9,-217.73
+ORD-0429,2022-08-10,2022-08-16,Meera Iyer,Home Office,East,Furniture,Chairs,Mesh Chair,2710.87,4,516.88
+ORD-0430,2022-06-09,2022-06-12,Neha Gupta,Consumer,Central,Technology,Computers,HP Pavilion,4223.28,3,655.8
+ORD-0431,2021-02-25,2021-03-03,Neha Gupta,Corporate,West,Furniture,Chairs,Mesh Chair,4463.3,4,532.18
+ORD-0432,2021-12-05,2021-12-09,Amit Verma,Home Office,Central,Technology,Computers,Dell Inspiron,3088.06,4,317.42
+ORD-0433,2022-09-24,2022-10-01,Sunita Rao,Corporate,Central,Furniture,Tables,Coffee Table,538.5,1,136.54
+ORD-0434,2022-12-31,2023-01-07,Suresh Kumar,Consumer,Central,Office Supplies,Art,Markers Set,1153.81,8,70.88
+ORD-0435,2021-11-09,2021-11-14,Vikram Patel,Corporate,West,Office Supplies,Binders,Avery Binder,602.69,9,138.68
+ORD-0436,2022-10-04,2022-10-06,Manoj Mishra,Home Office,West,Office Supplies,Binders,Avery Binder,1631.48,7,-6.95
+ORD-0437,2021-02-07,2021-02-13,Kavya Menon,Corporate,Central,Furniture,Furnishings,Cabinet,11265.18,10,348.65
+ORD-0438,2022-04-21,2022-04-27,Rahul Sharma,Home Office,Central,Office Supplies,Binders,Wilson Binder,1023.66,4,269.16
+ORD-0439,2022-09-21,2022-09-28,Manoj Mishra,Consumer,East,Technology,Computers,Acer Aspire,13869.44,10,4652.93
+ORD-0440,2023-01-24,2023-01-31,Kavya Menon,Corporate,East,Furniture,Bookcases,Wood Bookcase,940.2,2,4.99
+ORD-0441,2022-11-16,2022-11-19,Priya Singh,Corporate,South,Office Supplies,Storage,File Organizer,294.37,1,13.49
+ORD-0442,2022-12-22,2022-12-28,Sneha Chauhan,Home Office,Central,Office Supplies,Storage,Drawer Tray,604.16,10,117.3
+ORD-0443,2022-01-10,2022-01-16,Kavya Menon,Corporate,Central,Office Supplies,Binders,Staples Binder,1149.25,9,307.72
+ORD-0444,2021-12-20,2021-12-25,Kavya Menon,Consumer,South,Furniture,Chairs,Executive Chair,1640.72,2,43.26
+ORD-0445,2021-06-03,2021-06-06,Kavya Menon,Home Office,West,Technology,Accessories,Webcam HD,11620.78,7,2604.39
+ORD-0446,2022-05-09,2022-05-16,Pooja Tiwari,Home Office,East,Furniture,Furnishings,Cabinet,441.14,1,-18.73
+ORD-0447,2022-08-30,2022-09-02,Sunita Rao,Consumer,East,Technology,Phones,Vivo V23,9302.02,5,1232.41
+ORD-0448,2022-02-20,2022-02-26,Arjun Nair,Consumer,Central,Office Supplies,Labels,Address Labels,1487.14,8,166.76
+ORD-0449,2022-05-09,2022-05-12,Arun Pillai,Home Office,East,Technology,Copiers,Xerox WorkCentre,2509.5,5,523.27
+ORD-0450,2023-08-03,2023-08-08,Rajesh Khanna,Corporate,East,Office Supplies,Envelopes,Brown Envelope,124.46,3,-1.11
+ORD-0451,2023-05-31,2023-06-06,Divya Reddy,Consumer,West,Office Supplies,Art,Sketch Pens,1839.46,10,542.62
+ORD-0452,2022-06-29,2022-07-05,Sneha Chauhan,Home Office,East,Technology,Phones,Redmi Note,1814.54,1,451.26
+ORD-0453,2022-10-27,2022-11-01,Arun Pillai,Home Office,West,Office Supplies,Art,Markers Set,535.86,7,139.88
+ORD-0454,2023-03-20,2023-03-25,Divya Reddy,Corporate,East,Furniture,Chairs,Gaming Chair,5496.48,4,-342.33
+ORD-0455,2022-09-05,2022-09-11,Rahul Sharma,Home Office,West,Furniture,Bookcases,Wood Bookcase,8315.57,10,1113.4
+ORD-0456,2022-01-20,2022-01-27,Vikram Patel,Consumer,Central,Technology,Accessories,USB Hub,9609.86,7,135.83
+ORD-0457,2023-05-26,2023-06-01,Rajesh Khanna,Home Office,Central,Furniture,Bookcases,Corner Bookcase,2714.08,4,685.86
+ORD-0458,2022-05-10,2022-05-13,Meera Iyer,Home Office,Central,Furniture,Furnishings,Drawer Unit,7910.67,7,2252.56
+ORD-0459,2022-11-07,2022-11-09,Arjun Nair,Consumer,East,Office Supplies,Paper,Photo Paper,1135.46,9,59.38
+ORD-0460,2022-07-18,2022-07-24,Rajesh Khanna,Consumer,West,Office Supplies,Labels,Sticky Labels,243.27,1,65.8
+ORD-0461,2022-04-28,2022-05-04,Meera Iyer,Consumer,Central,Furniture,Chairs,Ergonomic Chair,1905.28,2,430.64
+ORD-0462,2023-08-12,2023-08-17,Ritu Agarwal,Home Office,Central,Office Supplies,Labels,Sticky Labels,284.26,1,76.5
+ORD-0463,2022-10-18,2022-10-23,Priya Singh,Consumer,Central,Furniture,Chairs,Executive Chair,8147.67,10,1746.07
+ORD-0464,2022-09-22,2022-09-25,Rahul Sharma,Home Office,East,Office Supplies,Binders,Wilson Binder,105.55,3,2.55
+ORD-0465,2022-02-14,2022-02-18,Rahul Sharma,Home Office,East,Office Supplies,Art,Markers Set,553.12,2,81.48
+ORD-0466,2023-01-14,2023-01-20,Ritu Agarwal,Consumer,Central,Office Supplies,Storage,File Organizer,567.52,4,46.41
+ORD-0467,2021-01-05,2021-01-09,Anjali Dubey,Home Office,West,Technology,Copiers,Canon Copier,11427.77,6,2986.35
+ORD-0468,2023-09-07,2023-09-11,Manoj Mishra,Corporate,South,Office Supplies,Envelopes,Bubble Mailer,1866.32,8,449.53
+ORD-0469,2023-09-12,2023-09-17,Neha Gupta,Corporate,West,Office Supplies,Art,Highlighters,147.95,5,27.39
+ORD-0470,2021-08-14,2021-08-21,Arun Pillai,Corporate,South,Office Supplies,Paper,Photo Paper,115.38,9,31.67
+ORD-0471,2021-09-12,2021-09-16,Sunita Rao,Home Office,West,Technology,Copiers,HP LaserJet,6119.77,8,-10.07
+ORD-0472,2022-08-11,2022-08-15,Kavya Menon,Consumer,East,Technology,Computers,Acer Aspire,2861.01,5,-25.05
+ORD-0473,2021-09-13,2021-09-19,Divya Reddy,Consumer,West,Furniture,Tables,Conference Table,1092.73,10,312.18
+ORD-0474,2023-09-08,2023-09-10,Manoj Mishra,Corporate,Central,Furniture,Bookcases,Corner Bookcase,3935.64,5,1349.84
+ORD-0475,2023-07-27,2023-08-02,Arun Pillai,Consumer,East,Furniture,Furnishings,Cabinet,5387.54,7,772.28
+ORD-0476,2022-05-30,2022-06-03,Arun Pillai,Home Office,West,Furniture,Tables,Folding Table,4335.29,8,-417.11
+ORD-0477,2022-11-22,2022-11-25,Rohit Joshi,Home Office,Central,Furniture,Chairs,Mesh Chair,2603.97,3,17.48
+ORD-0478,2022-04-28,2022-05-04,Arjun Nair,Corporate,South,Furniture,Bookcases,Wood Bookcase,7566.98,7,511.07
+ORD-0479,2023-05-25,2023-05-30,Kavya Menon,Home Office,East,Furniture,Furnishings,Cabinet,2218.28,2,580.83
+ORD-0480,2022-07-23,2022-07-28,Rahul Sharma,Corporate,East,Furniture,Tables,Standing Desk,2070.39,3,-81.76
+ORD-0481,2023-07-04,2023-07-11,Anjali Dubey,Corporate,Central,Office Supplies,Envelopes,Letter Envelope,865.1,5,134.55
+ORD-0482,2022-02-12,2022-02-14,Divya Reddy,Corporate,East,Office Supplies,Paper,A4 Paper Ream,280.92,2,14.21
+ORD-0483,2022-01-05,2022-01-09,Pooja Tiwari,Consumer,Central,Office Supplies,Envelopes,Bubble Mailer,223.63,2,46.03
+ORD-0484,2022-09-13,2022-09-16,Meera Iyer,Corporate,East,Office Supplies,Envelopes,Letter Envelope,1231.36,6,146.99
+ORD-0485,2023-01-25,2023-01-30,Vikram Patel,Home Office,South,Technology,Copiers,HP LaserJet,4059.14,3,1290.22
+ORD-0486,2022-03-08,2022-03-15,Sunita Rao,Consumer,West,Office Supplies,Envelopes,Bubble Mailer,457.1,6,19.47
+ORD-0487,2021-10-26,2021-11-02,Manoj Mishra,Corporate,South,Furniture,Furnishings,Drawer Unit,13065.63,9,1127.5
+ORD-0488,2021-07-08,2021-07-10,Sunita Rao,Consumer,West,Technology,Computers,Lenovo ThinkPad,2697.92,7,-192.34
+ORD-0489,2023-06-19,2023-06-24,Amit Verma,Home Office,South,Office Supplies,Binders,Avery Binder,172.22,2,-5.19
+ORD-0490,2022-11-02,2022-11-07,Vikram Patel,Corporate,Central,Furniture,Tables,Standing Desk,2512.32,3,-58.35
+ORD-0491,2021-02-05,2021-02-12,Rohit Joshi,Home Office,South,Furniture,Bookcases,Metal Shelf,6505.05,9,2187.61
+ORD-0492,2022-12-16,2022-12-22,Divya Reddy,Corporate,Central,Technology,Copiers,Epson Printer,5479.48,9,-327.13
+ORD-0493,2021-11-12,2021-11-16,Rahul Sharma,Consumer,Central,Furniture,Bookcases,Wood Bookcase,11173.79,9,3146.27
+ORD-0494,2021-12-19,2021-12-23,Rahul Sharma,Corporate,South,Furniture,Chairs,Gaming Chair,8520.05,7,1436.92
+ORD-0495,2023-03-27,2023-03-29,Pooja Tiwari,Home Office,South,Office Supplies,Storage,Storage Box,577.29,7,128.0
+ORD-0496,2022-10-24,2022-10-29,Kavya Menon,Corporate,West,Furniture,Tables,Coffee Table,10533.18,9,3259.8
+ORD-0497,2023-04-07,2023-04-14,Arjun Nair,Corporate,Central,Office Supplies,Storage,File Organizer,125.8,2,3.81
+ORD-0498,2022-10-15,2022-10-20,Suresh Kumar,Consumer,South,Office Supplies,Art,Markers Set,54.12,1,18.2
+ORD-0499,2021-01-23,2021-01-26,Nikhil Bose,Home Office,East,Technology,Accessories,Dell Monitor,619.06,1,-19.93
+ORD-0500,2022-05-21,2022-05-24,Nikhil Bose,Corporate,South,Furniture,Furnishings,Drawer Unit,562.35,1,157.23
+ORD-0501,2023-09-02,2023-09-05,Divya Reddy,Home Office,West,Technology,Accessories,USB Hub,1637.84,3,456.45
+ORD-0502,2023-04-17,2023-04-22,Kavya Menon,Corporate,South,Technology,Phones,iPhone 14,558.52,1,128.96
+ORD-0503,2021-04-07,2021-04-13,Anjali Dubey,Home Office,South,Office Supplies,Paper,Photo Paper,335.98,6,76.5
+ORD-0504,2023-02-02,2023-02-08,Anjali Dubey,Home Office,South,Office Supplies,Binders,Wilson Binder,458.09,4,-35.07
+ORD-0505,2022-11-14,2022-11-17,Sunita Rao,Consumer,Central,Technology,Computers,Acer Aspire,6262.27,5,489.17
+ORD-0506,2021-09-06,2021-09-08,Kavya Menon,Consumer,Central,Technology,Copiers,Xerox WorkCentre,3299.56,3,688.54
+ORD-0507,2021-12-13,2021-12-20,Sneha Chauhan,Home Office,East,Technology,Phones,OnePlus Nord,852.98,2,4.01
+ORD-0508,2022-07-26,2022-08-02,Rajesh Khanna,Home Office,West,Furniture,Furnishings,Cabinet,6684.95,6,85.66
+ORD-0509,2021-02-10,2021-02-15,Divya Reddy,Home Office,Central,Office Supplies,Art,Highlighters,697.37,4,100.86
+ORD-0510,2021-11-28,2021-12-05,Arun Pillai,Consumer,East,Furniture,Bookcases,Corner Bookcase,2187.41,3,587.84
+ORD-0511,2022-07-09,2022-07-13,Ritu Agarwal,Consumer,East,Furniture,Chairs,Gaming Chair,7118.54,6,53.06
+ORD-0512,2023-01-09,2023-01-11,Divya Reddy,Home Office,East,Office Supplies,Envelopes,Bubble Mailer,492.28,9,13.49
+ORD-0513,2022-02-24,2022-03-03,Vikram Patel,Consumer,West,Furniture,Chairs,Ergonomic Chair,3968.67,3,-35.97
+ORD-0514,2022-05-13,2022-05-16,Divya Reddy,Home Office,South,Technology,Phones,Vivo V23,11908.32,9,1972.44
+ORD-0515,2021-02-20,2021-02-24,Divya Reddy,Home Office,East,Technology,Phones,Samsung Galaxy,2085.01,2,390.97
+ORD-0516,2022-01-05,2022-01-11,Rohit Joshi,Home Office,West,Office Supplies,Art,Markers Set,196.1,9,-13.4
+ORD-0517,2021-11-08,2021-11-10,Rajesh Khanna,Home Office,East,Technology,Phones,Samsung Galaxy,2190.46,4,428.44
+ORD-0518,2022-08-07,2022-08-14,Nikhil Bose,Home Office,Central,Technology,Copiers,Canon Copier,12523.58,7,-312.29
+ORD-0519,2021-07-04,2021-07-10,Ritu Agarwal,Home Office,East,Furniture,Bookcases,Corner Bookcase,11255.42,8,3445.49
+ORD-0520,2022-07-18,2022-07-22,Kavya Menon,Home Office,Central,Furniture,Furnishings,File Cabinet,8638.77,10,594.16
+ORD-0521,2022-07-18,2022-07-25,Rahul Sharma,Corporate,South,Furniture,Bookcases,Metal Shelf,1476.14,1,248.13
+ORD-0522,2022-06-15,2022-06-18,Suresh Kumar,Consumer,East,Furniture,Chairs,Mesh Chair,1180.13,1,382.96
+ORD-0523,2023-04-23,2023-04-27,Priya Singh,Consumer,East,Office Supplies,Envelopes,Letter Envelope,905.12,8,-34.14
+ORD-0524,2022-01-11,2022-01-17,Manoj Mishra,Consumer,Central,Technology,Computers,Lenovo ThinkPad,8570.22,7,-18.45
+ORD-0525,2021-03-21,2021-03-28,Manoj Mishra,Home Office,South,Furniture,Furnishings,Cabinet,1866.65,2,65.66
+ORD-0526,2023-01-19,2023-01-25,Pooja Tiwari,Corporate,Central,Furniture,Chairs,Ergonomic Chair,9816.41,7,-449.17
+ORD-0527,2023-02-28,2023-03-03,Rajesh Khanna,Home Office,West,Office Supplies,Labels,Sticky Labels,98.39,1,-8.02
+ORD-0528,2022-07-07,2022-07-13,Priya Singh,Consumer,East,Technology,Accessories,Webcam HD,13635.11,7,3255.77
+ORD-0529,2022-08-13,2022-08-19,Vikram Patel,Corporate,Central,Technology,Computers,Acer Aspire,2415.31,3,275.67
+ORD-0530,2023-02-03,2023-02-05,Arun Pillai,Corporate,West,Office Supplies,Art,Markers Set,1640.87,7,-67.82
+ORD-0531,2021-05-19,2021-05-24,Manoj Mishra,Home Office,South,Office Supplies,Paper,Photo Paper,690.95,4,240.92
+ORD-0532,2022-06-21,2022-06-24,Manoj Mishra,Corporate,South,Technology,Phones,OnePlus Nord,805.11,2,69.33
+ORD-0533,2022-01-10,2022-01-14,Sunita Rao,Corporate,West,Technology,Accessories,Dell Monitor,7855.19,6,2714.53
+ORD-0534,2022-03-29,2022-04-04,Meera Iyer,Consumer,East,Technology,Copiers,Canon Copier,4691.76,3,1331.26
+ORD-0535,2021-04-26,2021-05-03,Rahul Sharma,Corporate,East,Technology,Computers,Asus VivoBook,8692.99,6,-434.0
+ORD-0536,2022-04-06,2022-04-11,Sneha Chauhan,Consumer,East,Technology,Accessories,HP Keyboard,13955.75,9,2050.94
+ORD-0537,2022-09-30,2022-10-07,Sunita Rao,Corporate,West,Technology,Phones,Redmi Note,711.22,1,181.46
+ORD-0538,2022-09-25,2022-09-29,Rohit Joshi,Corporate,West,Technology,Copiers,Canon Copier,10534.25,6,-962.99
+ORD-0539,2023-06-08,2023-06-15,Divya Reddy,Corporate,West,Furniture,Tables,Folding Table,8441.85,10,-136.02
+ORD-0540,2022-05-28,2022-06-02,Arun Pillai,Consumer,West,Office Supplies,Labels,Address Labels,533.68,5,41.11
+ORD-0541,2021-06-10,2021-06-12,Arun Pillai,Consumer,Central,Furniture,Bookcases,Metal Shelf,6183.25,5,1122.92
+ORD-0542,2023-06-19,2023-06-24,Rajesh Khanna,Corporate,East,Technology,Accessories,HP Keyboard,1074.09,3,77.33
+ORD-0543,2023-09-11,2023-09-18,Kavya Menon,Corporate,East,Office Supplies,Labels,Sticky Labels,542.97,10,182.84
+ORD-0544,2023-07-21,2023-07-27,Vikram Patel,Home Office,East,Furniture,Furnishings,Cabinet,8578.95,10,2230.93
+ORD-0545,2023-06-03,2023-06-06,Manoj Mishra,Home Office,East,Furniture,Tables,Folding Table,1633.48,3,246.33
+ORD-0546,2023-08-30,2023-09-06,Rahul Sharma,Home Office,East,Technology,Computers,Lenovo ThinkPad,10705.42,6,924.07
+ORD-0547,2022-02-26,2022-03-02,Vikram Patel,Consumer,East,Furniture,Bookcases,Wood Bookcase,410.03,3,140.92
+ORD-0548,2022-09-24,2022-09-28,Kavya Menon,Home Office,East,Office Supplies,Envelopes,Letter Envelope,837.36,4,51.64
+ORD-0549,2022-12-06,2022-12-11,Divya Reddy,Corporate,East,Technology,Copiers,HP LaserJet,3580.18,8,-46.66
+ORD-0550,2021-02-03,2021-02-08,Arjun Nair,Home Office,East,Technology,Accessories,USB Hub,1276.18,4,404.8
+ORD-0551,2022-03-26,2022-04-01,Rajesh Khanna,Corporate,East,Furniture,Bookcases,Metal Shelf,951.1,1,257.7
+ORD-0552,2023-01-08,2023-01-12,Priya Singh,Corporate,South,Furniture,Chairs,Ergonomic Chair,3304.73,4,257.85
+ORD-0553,2023-01-23,2023-01-25,Anjali Dubey,Consumer,West,Office Supplies,Art,Highlighters,1003.45,8,37.18
+ORD-0554,2023-04-28,2023-05-02,Priya Singh,Home Office,Central,Furniture,Tables,Folding Table,12286.31,9,1334.42
+ORD-0555,2022-10-24,2022-10-29,Pooja Tiwari,Corporate,East,Technology,Phones,iPhone 14,6069.57,6,-118.38
+ORD-0556,2022-08-28,2022-09-04,Sunita Rao,Corporate,Central,Technology,Copiers,Canon Copier,728.29,2,158.62
+ORD-0557,2022-10-12,2022-10-16,Rajesh Khanna,Home Office,South,Technology,Copiers,Xerox WorkCentre,1582.87,1,491.5
+ORD-0558,2022-08-03,2022-08-10,Priya Singh,Home Office,East,Technology,Computers,HP Pavilion,5281.58,7,1207.23
+ORD-0559,2023-09-12,2023-09-17,Rahul Sharma,Consumer,East,Furniture,Tables,Conference Table,11715.54,10,-1107.19
+ORD-0560,2022-05-25,2022-05-30,Arjun Nair,Consumer,South,Office Supplies,Binders,Staples Binder,2012.46,10,209.66
+ORD-0561,2022-03-29,2022-03-31,Rohit Joshi,Home Office,East,Office Supplies,Envelopes,Brown Envelope,1923.04,10,517.4
+ORD-0562,2021-08-01,2021-08-03,Vikram Patel,Consumer,Central,Technology,Computers,Dell Inspiron,1400.59,1,388.11
+ORD-0563,2021-11-02,2021-11-06,Sunita Rao,Consumer,South,Technology,Phones,Samsung Galaxy,6499.81,5,1372.64
+ORD-0564,2022-09-02,2022-09-08,Amit Verma,Consumer,Central,Office Supplies,Paper,Photo Paper,518.09,5,157.44
+ORD-0565,2023-04-20,2023-04-22,Neha Gupta,Consumer,South,Furniture,Chairs,Mesh Chair,2804.46,5,241.72
+ORD-0566,2021-08-03,2021-08-10,Ritu Agarwal,Corporate,West,Technology,Phones,Samsung Galaxy,4843.48,5,1363.48
+ORD-0567,2021-09-23,2021-09-29,Manoj Mishra,Home Office,East,Office Supplies,Envelopes,Bubble Mailer,1285.72,8,237.0
+ORD-0568,2022-05-20,2022-05-23,Rahul Sharma,Consumer,Central,Office Supplies,Paper,Letterhead Paper,33.91,2,6.15
+ORD-0569,2021-05-01,2021-05-08,Meera Iyer,Corporate,West,Technology,Copiers,Epson Printer,14857.9,9,-66.09
+ORD-0570,2022-10-18,2022-10-21,Anjali Dubey,Corporate,West,Office Supplies,Storage,File Organizer,1525.48,9,373.99
+ORD-0571,2021-04-27,2021-05-04,Arjun Nair,Consumer,West,Furniture,Bookcases,Metal Shelf,7604.13,6,2395.5
+ORD-0572,2022-05-06,2022-05-11,Nikhil Bose,Home Office,East,Technology,Computers,Acer Aspire,16314.04,9,1763.74
+ORD-0573,2023-04-14,2023-04-19,Suresh Kumar,Home Office,Central,Office Supplies,Binders,Staples Binder,1488.66,9,-9.35
+ORD-0574,2022-12-03,2022-12-07,Suresh Kumar,Consumer,Central,Furniture,Chairs,Executive Chair,6839.81,7,1908.87
+ORD-0575,2022-08-08,2022-08-14,Suresh Kumar,Home Office,Central,Furniture,Tables,Conference Table,480.1,1,-29.26
+ORD-0576,2023-06-18,2023-06-21,Anjali Dubey,Home Office,East,Furniture,Furnishings,Drawer Unit,771.37,3,195.33
+ORD-0577,2023-03-08,2023-03-11,Vikram Patel,Home Office,South,Technology,Copiers,Canon Copier,3248.83,4,381.94
+ORD-0578,2023-06-14,2023-06-20,Vikram Patel,Home Office,West,Furniture,Bookcases,Wood Bookcase,4457.6,4,475.7
+ORD-0579,2023-01-01,2023-01-07,Ritu Agarwal,Home Office,West,Technology,Phones,OnePlus Nord,1599.84,2,480.17
+ORD-0580,2021-04-16,2021-04-22,Anjali Dubey,Home Office,West,Office Supplies,Labels,Name Tags,412.22,4,-5.5
+ORD-0581,2021-10-11,2021-10-17,Sunita Rao,Consumer,Central,Furniture,Furnishings,Desk Lamp,1301.22,5,431.01
+ORD-0582,2022-07-28,2022-08-03,Suresh Kumar,Home Office,Central,Technology,Computers,Asus VivoBook,2274.01,5,493.37
+ORD-0583,2021-10-18,2021-10-24,Suresh Kumar,Home Office,Central,Technology,Computers,Dell Inspiron,8987.09,9,-372.66
+ORD-0584,2022-04-28,2022-05-05,Pooja Tiwari,Consumer,West,Technology,Phones,Redmi Note,3655.19,7,615.0
+ORD-0585,2022-08-30,2022-09-06,Suresh Kumar,Corporate,Central,Office Supplies,Labels,Name Tags,866.96,4,175.03
+ORD-0586,2022-07-01,2022-07-03,Nikhil Bose,Consumer,South,Furniture,Tables,Conference Table,5291.35,5,1161.97
+ORD-0587,2022-04-22,2022-04-27,Rajesh Khanna,Corporate,Central,Technology,Computers,HP Pavilion,4377.92,3,872.66
+ORD-0588,2023-03-19,2023-03-23,Neha Gupta,Corporate,West,Furniture,Furnishings,Desk Lamp,4620.68,6,1296.54
+ORD-0589,2021-10-17,2021-10-21,Neha Gupta,Corporate,West,Office Supplies,Envelopes,Brown Envelope,1027.7,6,-69.97
+ORD-0590,2021-11-06,2021-11-12,Kavya Menon,Home Office,East,Furniture,Furnishings,File Cabinet,2903.66,9,339.93
+ORD-0591,2021-03-09,2021-03-13,Kavya Menon,Home Office,Central,Technology,Copiers,Epson Printer,4178.11,3,-271.36
+ORD-0592,2023-08-12,2023-08-19,Sneha Chauhan,Corporate,South,Office Supplies,Art,Sketch Pens,496.77,2,-10.29
+ORD-0593,2023-09-06,2023-09-11,Divya Reddy,Corporate,South,Technology,Phones,Vivo V23,362.96,1,97.15
+ORD-0594,2023-06-28,2023-07-04,Sneha Chauhan,Corporate,East,Office Supplies,Binders,Avery Binder,615.47,5,98.52
+ORD-0595,2021-07-20,2021-07-23,Meera Iyer,Corporate,Central,Office Supplies,Storage,File Organizer,357.98,2,62.71
+ORD-0596,2022-06-07,2022-06-12,Priya Singh,Home Office,Central,Technology,Accessories,Logitech Mouse,1466.04,1,394.86
+ORD-0597,2022-01-03,2022-01-05,Manoj Mishra,Home Office,South,Furniture,Chairs,Executive Chair,6827.1,7,1504.0
+ORD-0598,2022-02-20,2022-02-25,Arjun Nair,Consumer,South,Furniture,Tables,Standing Desk,5745.9,9,1815.8
+ORD-0599,2023-05-11,2023-05-16,Amit Verma,Consumer,East,Technology,Accessories,HP Keyboard,459.19,1,136.93
+ORD-0600,2022-11-05,2022-11-10,Ritu Agarwal,Corporate,South,Technology,Phones,iPhone 14,9252.93,7,966.72
+ORD-0601,2022-03-11,2022-03-17,Pooja Tiwari,Consumer,East,Furniture,Furnishings,Drawer Unit,1104.02,10,137.09
+ORD-0602,2023-01-19,2023-01-22,Manoj Mishra,Home Office,South,Office Supplies,Envelopes,Bubble Mailer,118.22,6,-9.81
+ORD-0603,2022-05-10,2022-05-17,Arun Pillai,Consumer,West,Furniture,Chairs,Gaming Chair,3754.55,5,-243.27
+ORD-0604,2023-07-01,2023-07-07,Sneha Chauhan,Home Office,West,Technology,Computers,Acer Aspire,7624.99,10,-581.42
+ORD-0605,2021-12-18,2021-12-24,Suresh Kumar,Home Office,South,Technology,Copiers,Epson Printer,5846.72,7,1987.84
+ORD-0606,2021-10-29,2021-11-02,Manoj Mishra,Home Office,Central,Technology,Phones,Vivo V23,1552.76,5,175.34
+ORD-0607,2021-06-23,2021-06-29,Divya Reddy,Corporate,West,Technology,Accessories,Webcam HD,856.56,2,-56.03
+ORD-0608,2023-03-14,2023-03-18,Rahul Sharma,Corporate,Central,Furniture,Tables,Coffee Table,1890.7,2,585.28
+ORD-0609,2023-01-27,2023-01-30,Kavya Menon,Corporate,East,Office Supplies,Art,Markers Set,499.48,8,68.59
+ORD-0610,2021-02-03,2021-02-07,Pooja Tiwari,Corporate,East,Technology,Computers,Asus VivoBook,4398.14,7,431.38
+ORD-0611,2022-10-15,2022-10-18,Priya Singh,Consumer,Central,Technology,Accessories,Logitech Mouse,3105.68,3,354.99
+ORD-0612,2022-05-03,2022-05-10,Rohit Joshi,Corporate,South,Office Supplies,Paper,Photo Paper,491.48,3,47.0
+ORD-0613,2021-10-23,2021-10-28,Sneha Chauhan,Consumer,West,Furniture,Bookcases,Corner Bookcase,8631.94,6,814.02
+ORD-0614,2023-07-30,2023-08-06,Rohit Joshi,Consumer,Central,Furniture,Bookcases,Metal Shelf,6476.15,10,1605.55
+ORD-0615,2023-02-07,2023-02-10,Suresh Kumar,Home Office,East,Office Supplies,Labels,Sticky Labels,302.54,3,-28.81
+ORD-0616,2021-01-09,2021-01-11,Nikhil Bose,Home Office,West,Technology,Copiers,Canon Copier,3569.7,6,98.11
+ORD-0617,2021-07-17,2021-07-19,Neha Gupta,Home Office,East,Technology,Phones,Samsung Galaxy,710.99,2,122.37
+ORD-0618,2022-01-20,2022-01-27,Sunita Rao,Home Office,West,Office Supplies,Envelopes,Brown Envelope,477.12,5,94.1
+ORD-0619,2021-03-19,2021-03-26,Sunita Rao,Corporate,Central,Furniture,Bookcases,Metal Shelf,976.4,2,-70.23
+ORD-0620,2022-02-02,2022-02-06,Amit Verma,Corporate,East,Technology,Accessories,Dell Monitor,15703.68,8,-152.31
+ORD-0621,2022-02-07,2022-02-10,Pooja Tiwari,Home Office,East,Office Supplies,Art,Sketch Pens,752.2,4,-39.26
+ORD-0622,2022-03-29,2022-04-05,Manoj Mishra,Consumer,West,Furniture,Chairs,Ergonomic Chair,5940.66,5,-543.9
+ORD-0623,2022-05-25,2022-05-28,Rajesh Khanna,Home Office,West,Office Supplies,Labels,Address Labels,269.83,5,13.07
+ORD-0624,2022-02-05,2022-02-11,Amit Verma,Corporate,South,Technology,Copiers,Epson Printer,5458.72,9,398.44
+ORD-0625,2022-12-07,2022-12-12,Priya Singh,Corporate,Central,Technology,Accessories,Dell Monitor,1715.28,2,487.15
+ORD-0626,2021-12-15,2021-12-17,Sneha Chauhan,Consumer,East,Furniture,Bookcases,Corner Bookcase,1454.52,1,287.02
+ORD-0627,2021-11-03,2021-11-10,Nikhil Bose,Consumer,South,Furniture,Chairs,Mesh Chair,1183.68,4,-15.52
+ORD-0628,2023-01-08,2023-01-14,Anjali Dubey,Home Office,West,Technology,Copiers,Epson Printer,9288.74,8,2558.24
+ORD-0629,2022-04-06,2022-04-08,Priya Singh,Home Office,Central,Technology,Accessories,Logitech Mouse,2889.16,7,760.42
+ORD-0630,2022-11-15,2022-11-21,Vikram Patel,Consumer,West,Furniture,Tables,Standing Desk,8122.91,8,910.16
+ORD-0631,2023-07-30,2023-08-05,Priya Singh,Consumer,West,Technology,Computers,HP Pavilion,8386.65,5,-471.48
+ORD-0632,2022-09-18,2022-09-21,Ritu Agarwal,Corporate,West,Office Supplies,Binders,Avery Binder,739.66,10,193.79
+ORD-0633,2022-03-13,2022-03-17,Manoj Mishra,Consumer,Central,Office Supplies,Labels,Name Tags,448.43,9,123.94
+ORD-0634,2023-03-24,2023-03-27,Rohit Joshi,Consumer,West,Technology,Computers,Lenovo ThinkPad,4690.77,3,-114.35
+ORD-0635,2022-01-14,2022-01-20,Neha Gupta,Consumer,West,Technology,Copiers,Xerox WorkCentre,8770.36,10,-254.44
+ORD-0636,2023-06-20,2023-06-25,Manoj Mishra,Consumer,East,Technology,Phones,Samsung Galaxy,4746.0,5,1249.79
+ORD-0637,2023-03-03,2023-03-08,Rohit Joshi,Home Office,East,Office Supplies,Paper,A4 Paper Ream,1265.59,9,9.7
+ORD-0638,2021-06-28,2021-07-04,Divya Reddy,Home Office,East,Office Supplies,Binders,Staples Binder,2855.86,10,520.44
+ORD-0639,2023-03-13,2023-03-17,Neha Gupta,Consumer,East,Furniture,Furnishings,Desk Lamp,13207.57,9,2357.74
+ORD-0640,2023-06-03,2023-06-09,Priya Singh,Corporate,East,Office Supplies,Paper,Photo Paper,170.71,4,-5.61
+ORD-0641,2023-05-15,2023-05-20,Meera Iyer,Consumer,West,Furniture,Tables,Standing Desk,1967.13,5,25.81
+ORD-0642,2022-09-24,2022-09-29,Rahul Sharma,Consumer,East,Technology,Phones,Samsung Galaxy,9014.61,8,-614.01
+ORD-0643,2021-08-29,2021-09-05,Suresh Kumar,Home Office,East,Furniture,Bookcases,Metal Shelf,4762.26,4,222.68
+ORD-0644,2021-04-11,2021-04-14,Amit Verma,Consumer,South,Office Supplies,Art,Sketch Pens,1437.41,8,-108.59
+ORD-0645,2022-03-23,2022-03-26,Vikram Patel,Corporate,South,Technology,Copiers,Xerox WorkCentre,11965.43,8,2206.54
+ORD-0646,2023-09-26,2023-09-30,Manoj Mishra,Home Office,West,Technology,Accessories,HP Keyboard,705.09,1,-35.26
+ORD-0647,2022-04-22,2022-04-27,Ritu Agarwal,Corporate,East,Furniture,Tables,Coffee Table,3616.1,3,676.57
+ORD-0648,2022-09-19,2022-09-22,Arun Pillai,Corporate,West,Office Supplies,Envelopes,Brown Envelope,2080.3,8,-5.41
+ORD-0649,2022-04-30,2022-05-05,Suresh Kumar,Consumer,East,Furniture,Chairs,Gaming Chair,6378.78,7,1922.06
+ORD-0650,2022-08-29,2022-09-01,Divya Reddy,Consumer,West,Office Supplies,Binders,Wilson Binder,177.75,9,24.71
+ORD-0651,2022-05-06,2022-05-13,Sneha Chauhan,Consumer,East,Technology,Copiers,Epson Printer,1447.69,1,120.13
+ORD-0652,2021-08-12,2021-08-15,Divya Reddy,Consumer,West,Furniture,Bookcases,Wood Bookcase,1632.62,5,174.16
+ORD-0653,2022-08-08,2022-08-15,Rajesh Khanna,Consumer,South,Office Supplies,Binders,Wilson Binder,717.18,3,47.83
+ORD-0654,2022-04-21,2022-04-28,Suresh Kumar,Corporate,West,Office Supplies,Binders,Staples Binder,175.38,9,16.07
+ORD-0655,2021-10-04,2021-10-11,Amit Verma,Home Office,East,Office Supplies,Envelopes,Letter Envelope,2654.46,10,613.43
+ORD-0656,2021-02-26,2021-03-04,Meera Iyer,Corporate,West,Office Supplies,Storage,Storage Box,1516.39,8,97.82
+ORD-0657,2021-06-29,2021-07-06,Suresh Kumar,Consumer,East,Office Supplies,Labels,Address Labels,665.98,4,127.91
+ORD-0658,2023-01-26,2023-02-01,Meera Iyer,Corporate,East,Office Supplies,Paper,Letterhead Paper,780.17,5,70.46
+ORD-0659,2021-02-25,2021-02-27,Arun Pillai,Home Office,South,Furniture,Bookcases,Metal Shelf,1516.46,2,211.33
+ORD-0660,2023-04-26,2023-05-02,Nikhil Bose,Consumer,West,Furniture,Furnishings,Drawer Unit,424.48,2,129.07
+ORD-0661,2021-10-23,2021-10-25,Vikram Patel,Home Office,West,Technology,Computers,Lenovo ThinkPad,3767.17,8,-30.46
+ORD-0662,2023-09-02,2023-09-09,Meera Iyer,Corporate,East,Technology,Accessories,USB Hub,6992.64,7,1329.36
+ORD-0663,2021-10-26,2021-10-29,Manoj Mishra,Corporate,Central,Technology,Phones,iPhone 14,8282.21,6,2104.27
+ORD-0664,2022-05-13,2022-05-19,Anjali Dubey,Corporate,South,Office Supplies,Labels,Sticky Labels,482.67,10,123.18
+ORD-0665,2021-06-25,2021-06-29,Vikram Patel,Consumer,Central,Technology,Copiers,HP LaserJet,4271.33,6,1410.8
+ORD-0666,2022-09-26,2022-09-29,Vikram Patel,Consumer,East,Office Supplies,Envelopes,Bubble Mailer,236.98,3,-19.31
+ORD-0667,2021-11-21,2021-11-27,Arjun Nair,Consumer,Central,Technology,Copiers,HP LaserJet,13255.58,9,2644.47
+ORD-0668,2021-12-19,2021-12-22,Rahul Sharma,Consumer,Central,Furniture,Furnishings,Cabinet,9824.48,7,2415.18
+ORD-0669,2023-08-29,2023-09-03,Anjali Dubey,Home Office,Central,Furniture,Tables,Conference Table,10834.95,8,3644.04
+ORD-0670,2023-02-12,2023-02-18,Neha Gupta,Corporate,South,Office Supplies,Paper,Letterhead Paper,2168.4,8,-80.79
+ORD-0671,2022-07-19,2022-07-21,Meera Iyer,Corporate,East,Furniture,Chairs,Gaming Chair,1113.83,2,193.44
+ORD-0672,2021-07-19,2021-07-25,Amit Verma,Consumer,East,Office Supplies,Paper,Photo Paper,2307.07,9,472.21
+ORD-0673,2023-09-08,2023-09-10,Ritu Agarwal,Corporate,South,Office Supplies,Art,Sketch Pens,1583.51,10,-118.41
+ORD-0674,2022-11-14,2022-11-18,Meera Iyer,Corporate,Central,Furniture,Tables,Folding Table,498.51,1,28.97
+ORD-0675,2023-09-28,2023-10-03,Pooja Tiwari,Home Office,South,Office Supplies,Binders,Avery Binder,749.63,8,196.82
+ORD-0676,2023-09-21,2023-09-26,Arjun Nair,Consumer,West,Office Supplies,Art,Sketch Pens,738.19,5,214.36
+ORD-0677,2021-12-10,2021-12-12,Rohit Joshi,Corporate,West,Office Supplies,Art,Sketch Pens,425.03,7,45.88
+ORD-0678,2022-08-05,2022-08-08,Divya Reddy,Home Office,Central,Technology,Computers,Acer Aspire,1681.04,1,60.34
+ORD-0679,2022-08-23,2022-08-27,Vikram Patel,Consumer,West,Furniture,Furnishings,Cabinet,2601.19,5,489.67
+ORD-0680,2022-10-14,2022-10-19,Kavya Menon,Corporate,East,Technology,Accessories,USB Hub,414.84,1,10.27
+ORD-0681,2023-09-21,2023-09-23,Pooja Tiwari,Home Office,South,Office Supplies,Labels,Name Tags,960.59,5,109.72
+ORD-0682,2022-12-12,2022-12-14,Priya Singh,Home Office,East,Furniture,Chairs,Mesh Chair,1642.66,3,484.98
+ORD-0683,2021-05-19,2021-05-23,Meera Iyer,Corporate,Central,Technology,Phones,OnePlus Nord,721.74,1,99.84
+ORD-0684,2023-08-17,2023-08-19,Ritu Agarwal,Consumer,East,Office Supplies,Paper,Letterhead Paper,503.03,3,147.19
+ORD-0685,2023-04-27,2023-05-04,Sneha Chauhan,Consumer,Central,Furniture,Bookcases,Corner Bookcase,5922.81,10,-209.24
+ORD-0686,2021-05-21,2021-05-27,Sunita Rao,Corporate,South,Furniture,Bookcases,Metal Shelf,810.05,2,102.49
+ORD-0687,2023-05-02,2023-05-05,Nikhil Bose,Corporate,West,Office Supplies,Envelopes,Letter Envelope,87.61,2,-3.59
+ORD-0688,2021-01-18,2021-01-23,Nikhil Bose,Consumer,Central,Furniture,Bookcases,Corner Bookcase,8323.7,10,2801.34
+ORD-0689,2021-06-26,2021-07-03,Vikram Patel,Consumer,East,Furniture,Chairs,Ergonomic Chair,2121.6,4,-11.82
+ORD-0690,2021-03-22,2021-03-27,Pooja Tiwari,Corporate,West,Office Supplies,Binders,Avery Binder,66.94,1,-5.71
+ORD-0691,2022-11-07,2022-11-13,Priya Singh,Corporate,West,Office Supplies,Binders,Wilson Binder,194.95,2,-18.59
+ORD-0692,2021-04-09,2021-04-11,Meera Iyer,Consumer,East,Office Supplies,Paper,Letterhead Paper,36.33,1,10.2
+ORD-0693,2023-08-23,2023-08-27,Ritu Agarwal,Home Office,East,Office Supplies,Storage,File Organizer,625.69,4,-43.33
+ORD-0694,2023-04-20,2023-04-26,Sneha Chauhan,Consumer,Central,Technology,Computers,HP Pavilion,1952.44,1,-108.54
+ORD-0695,2021-08-08,2021-08-14,Neha Gupta,Corporate,East,Office Supplies,Art,Markers Set,756.23,3,258.32
+ORD-0696,2022-03-11,2022-03-14,Neha Gupta,Corporate,West,Office Supplies,Paper,Photo Paper,335.93,8,-13.05
+ORD-0697,2023-02-20,2023-02-24,Suresh Kumar,Consumer,West,Office Supplies,Storage,Drawer Tray,348.48,8,9.63
+ORD-0698,2022-09-07,2022-09-14,Pooja Tiwari,Corporate,South,Furniture,Furnishings,Cabinet,5197.93,4,1573.1
+ORD-0699,2023-04-02,2023-04-07,Divya Reddy,Home Office,West,Office Supplies,Storage,Storage Box,249.89,2,33.78
+ORD-0700,2022-11-24,2022-11-26,Manoj Mishra,Home Office,South,Technology,Computers,Acer Aspire,3069.16,2,925.64
+ORD-0701,2021-06-22,2021-06-24,Rajesh Khanna,Home Office,East,Furniture,Tables,Coffee Table,852.03,2,77.63
+ORD-0702,2022-05-27,2022-05-31,Rajesh Khanna,Home Office,Central,Office Supplies,Envelopes,Letter Envelope,887.94,6,152.21
+ORD-0703,2022-02-19,2022-02-24,Neha Gupta,Consumer,South,Office Supplies,Storage,Storage Box,759.55,5,2.94
+ORD-0704,2023-08-24,2023-08-27,Rahul Sharma,Corporate,West,Technology,Phones,Samsung Galaxy,2666.22,3,548.29
+ORD-0705,2021-06-06,2021-06-10,Arun Pillai,Home Office,West,Office Supplies,Envelopes,Brown Envelope,1919.14,8,-17.52
+ORD-0706,2022-11-09,2022-11-14,Sneha Chauhan,Home Office,Central,Furniture,Bookcases,Corner Bookcase,1433.61,1,-122.98
+ORD-0707,2022-03-17,2022-03-19,Nikhil Bose,Corporate,South,Furniture,Furnishings,Drawer Unit,146.0,1,21.97
+ORD-0708,2023-06-01,2023-06-05,Anjali Dubey,Consumer,South,Office Supplies,Paper,Photo Paper,1059.53,7,-53.8
+ORD-0709,2022-11-23,2022-11-28,Sneha Chauhan,Corporate,South,Office Supplies,Envelopes,Letter Envelope,470.82,3,35.84
+ORD-0710,2022-05-22,2022-05-28,Rahul Sharma,Consumer,Central,Furniture,Bookcases,Metal Shelf,1631.66,10,451.35
+ORD-0711,2021-12-24,2021-12-31,Neha Gupta,Corporate,Central,Office Supplies,Binders,Staples Binder,770.64,7,46.87
+ORD-0712,2021-12-26,2021-12-28,Anjali Dubey,Home Office,East,Office Supplies,Paper,A4 Paper Ream,346.33,10,72.59
+ORD-0713,2023-06-09,2023-06-13,Suresh Kumar,Home Office,West,Technology,Accessories,HP Keyboard,1029.64,1,297.07
+ORD-0714,2022-08-05,2022-08-11,Rahul Sharma,Home Office,South,Furniture,Bookcases,Wood Bookcase,3773.0,6,285.37
+ORD-0715,2022-08-10,2022-08-12,Arun Pillai,Corporate,Central,Furniture,Chairs,Executive Chair,1999.67,6,69.56
+ORD-0716,2023-09-20,2023-09-25,Rohit Joshi,Corporate,East,Technology,Copiers,Canon Copier,735.18,1,116.22
+ORD-0717,2023-04-04,2023-04-07,Suresh Kumar,Home Office,West,Office Supplies,Labels,Address Labels,147.54,5,38.44
+ORD-0718,2022-05-02,2022-05-07,Anjali Dubey,Home Office,Central,Technology,Accessories,Logitech Mouse,9759.55,7,400.23
+ORD-0719,2022-03-01,2022-03-06,Arun Pillai,Home Office,West,Furniture,Furnishings,Cabinet,2722.74,3,-11.36
+ORD-0720,2023-09-13,2023-09-20,Priya Singh,Home Office,South,Furniture,Bookcases,Corner Bookcase,3428.17,9,370.65
+ORD-0721,2021-09-04,2021-09-07,Suresh Kumar,Corporate,South,Office Supplies,Labels,Name Tags,387.68,2,108.82
+ORD-0722,2021-10-01,2021-10-05,Kavya Menon,Corporate,East,Office Supplies,Paper,Photo Paper,106.98,2,-9.36
+ORD-0723,2023-03-28,2023-04-01,Priya Singh,Home Office,South,Furniture,Furnishings,File Cabinet,1292.41,4,-49.9
+ORD-0724,2021-09-22,2021-09-26,Divya Reddy,Home Office,West,Office Supplies,Envelopes,Brown Envelope,26.04,1,7.9
+ORD-0725,2021-11-18,2021-11-24,Amit Verma,Home Office,Central,Furniture,Chairs,Gaming Chair,9942.99,7,2246.18
+ORD-0726,2021-05-24,2021-05-27,Amit Verma,Corporate,Central,Technology,Phones,Vivo V23,5118.71,4,1269.11
+ORD-0727,2021-11-17,2021-11-21,Arjun Nair,Corporate,East,Office Supplies,Labels,Name Tags,122.93,3,-0.45
+ORD-0728,2021-10-09,2021-10-14,Sneha Chauhan,Corporate,West,Furniture,Bookcases,Corner Bookcase,6476.79,6,-318.45
+ORD-0729,2022-07-13,2022-07-18,Divya Reddy,Corporate,East,Furniture,Tables,Coffee Table,7499.47,6,-678.83
+ORD-0730,2023-09-18,2023-09-24,Rajesh Khanna,Home Office,Central,Technology,Phones,iPhone 14,6750.54,5,1453.24
+ORD-0731,2023-07-14,2023-07-21,Rajesh Khanna,Consumer,South,Technology,Computers,Acer Aspire,3707.99,5,1191.54
+ORD-0732,2023-02-14,2023-02-17,Suresh Kumar,Home Office,South,Furniture,Tables,Standing Desk,8435.31,7,196.68
+ORD-0733,2021-03-24,2021-03-29,Sunita Rao,Consumer,South,Furniture,Furnishings,Drawer Unit,4044.34,5,235.93
+ORD-0734,2022-09-09,2022-09-16,Rahul Sharma,Home Office,South,Office Supplies,Labels,Name Tags,196.0,1,-3.39
+ORD-0735,2022-03-31,2022-04-07,Anjali Dubey,Home Office,East,Technology,Phones,Redmi Note,7418.74,6,-371.88
+ORD-0736,2021-09-13,2021-09-19,Nikhil Bose,Corporate,South,Office Supplies,Labels,Address Labels,2106.53,8,-84.09
+ORD-0737,2021-06-27,2021-07-04,Pooja Tiwari,Consumer,East,Office Supplies,Storage,File Organizer,376.49,6,110.83
+ORD-0738,2023-08-26,2023-09-01,Nikhil Bose,Consumer,East,Technology,Phones,Samsung Galaxy,2684.84,4,760.68
+ORD-0739,2021-02-20,2021-02-25,Amit Verma,Consumer,Central,Office Supplies,Art,Highlighters,356.01,6,55.27
+ORD-0740,2021-01-15,2021-01-22,Kavya Menon,Consumer,South,Office Supplies,Art,Markers Set,261.03,4,75.14
+ORD-0741,2023-03-12,2023-03-16,Arjun Nair,Corporate,East,Furniture,Furnishings,File Cabinet,4017.93,10,1088.22
+ORD-0742,2023-01-15,2023-01-22,Rahul Sharma,Consumer,South,Technology,Copiers,Xerox WorkCentre,9785.15,5,58.4
+ORD-0743,2022-04-07,2022-04-10,Vikram Patel,Corporate,West,Furniture,Furnishings,Desk Lamp,8784.95,6,693.13
+ORD-0744,2021-08-06,2021-08-13,Sneha Chauhan,Consumer,West,Furniture,Furnishings,Drawer Unit,172.96,1,55.17
+ORD-0745,2022-04-28,2022-05-02,Rohit Joshi,Consumer,West,Office Supplies,Labels,Sticky Labels,1707.31,9,61.68
+ORD-0746,2022-02-09,2022-02-16,Sunita Rao,Corporate,East,Furniture,Tables,Conference Table,7109.78,9,374.18
+ORD-0747,2022-04-25,2022-04-28,Rohit Joshi,Consumer,South,Technology,Accessories,Webcam HD,1527.77,2,519.95
+ORD-0748,2022-05-27,2022-05-31,Ritu Agarwal,Corporate,Central,Office Supplies,Storage,File Organizer,799.61,5,76.84
+ORD-0749,2021-06-18,2021-06-22,Arjun Nair,Consumer,South,Office Supplies,Art,Sketch Pens,77.47,3,-1.36
+ORD-0750,2022-04-27,2022-05-01,Priya Singh,Corporate,West,Technology,Copiers,Epson Printer,6733.89,8,1475.15
+ORD-0751,2022-05-12,2022-05-17,Amit Verma,Corporate,West,Furniture,Chairs,Executive Chair,5261.77,4,-98.42
+ORD-0752,2021-06-22,2021-06-29,Rahul Sharma,Home Office,East,Office Supplies,Storage,Drawer Tray,2091.47,9,-39.2
+ORD-0753,2023-08-01,2023-08-03,Anjali Dubey,Consumer,Central,Technology,Copiers,Canon Copier,1819.01,2,301.32
+ORD-0754,2023-09-02,2023-09-04,Divya Reddy,Corporate,West,Furniture,Tables,Conference Table,7837.6,8,166.1
+ORD-0755,2022-11-05,2022-11-07,Manoj Mishra,Home Office,Central,Furniture,Chairs,Gaming Chair,1187.74,3,-92.75
+ORD-0756,2022-10-22,2022-10-26,Rajesh Khanna,Consumer,South,Furniture,Chairs,Ergonomic Chair,1746.08,5,583.67
+ORD-0757,2023-06-06,2023-06-11,Rajesh Khanna,Corporate,East,Technology,Phones,iPhone 14,6824.51,5,2248.64
+ORD-0758,2021-06-07,2021-06-09,Ritu Agarwal,Home Office,Central,Furniture,Furnishings,File Cabinet,1807.99,3,-102.6
+ORD-0759,2022-01-12,2022-01-18,Rohit Joshi,Corporate,South,Technology,Copiers,Epson Printer,12806.13,10,-760.68
+ORD-0760,2022-03-09,2022-03-13,Priya Singh,Consumer,South,Office Supplies,Paper,Photo Paper,981.95,9,106.63
+ORD-0761,2021-08-18,2021-08-25,Arun Pillai,Home Office,South,Office Supplies,Labels,Address Labels,188.61,2,18.26
+ORD-0762,2023-07-18,2023-07-23,Arun Pillai,Consumer,Central,Furniture,Tables,Standing Desk,3595.72,7,-282.34
+ORD-0763,2021-03-20,2021-03-22,Neha Gupta,Corporate,South,Office Supplies,Binders,Staples Binder,1613.18,8,251.36
+ORD-0764,2021-09-17,2021-09-21,Nikhil Bose,Home Office,West,Furniture,Chairs,Ergonomic Chair,3601.94,3,1006.06
+ORD-0765,2021-02-16,2021-02-18,Nikhil Bose,Home Office,South,Furniture,Bookcases,Metal Shelf,12309.68,10,659.8
+ORD-0766,2023-07-30,2023-08-02,Neha Gupta,Home Office,Central,Technology,Computers,Dell Inspiron,8133.14,7,-791.91
+ORD-0767,2021-04-30,2021-05-02,Ritu Agarwal,Home Office,South,Technology,Copiers,Epson Printer,5960.32,8,1584.91
+ORD-0768,2022-09-24,2022-09-28,Amit Verma,Corporate,South,Office Supplies,Labels,Sticky Labels,147.55,3,-2.09
+ORD-0769,2023-04-16,2023-04-18,Vikram Patel,Corporate,East,Office Supplies,Paper,A4 Paper Ream,545.51,4,99.13
+ORD-0770,2023-03-20,2023-03-26,Divya Reddy,Consumer,South,Technology,Phones,OnePlus Nord,1674.89,7,-42.3
+ORD-0771,2021-06-06,2021-06-13,Nikhil Bose,Consumer,South,Office Supplies,Art,Markers Set,803.63,10,26.26
+ORD-0772,2023-04-30,2023-05-05,Pooja Tiwari,Home Office,West,Technology,Accessories,Logitech Mouse,12092.56,7,2801.67
+ORD-0773,2022-09-03,2022-09-10,Divya Reddy,Corporate,South,Office Supplies,Storage,Storage Box,1632.61,9,285.99
+ORD-0774,2022-11-26,2022-12-01,Manoj Mishra,Corporate,West,Technology,Phones,Vivo V23,7175.16,6,147.32
+ORD-0775,2022-10-26,2022-10-31,Pooja Tiwari,Corporate,Central,Furniture,Chairs,Gaming Chair,325.87,1,73.91
+ORD-0776,2022-04-26,2022-04-30,Nikhil Bose,Home Office,Central,Furniture,Tables,Standing Desk,4009.33,3,903.49
+ORD-0777,2022-02-04,2022-02-09,Sunita Rao,Corporate,Central,Office Supplies,Labels,Sticky Labels,700.9,10,147.76
+ORD-0778,2021-03-30,2021-04-06,Ritu Agarwal,Consumer,East,Furniture,Tables,Standing Desk,1930.12,8,168.29
+ORD-0779,2022-05-21,2022-05-25,Meera Iyer,Consumer,West,Technology,Computers,Asus VivoBook,4213.39,5,-120.62
+ORD-0780,2023-04-28,2023-05-04,Ritu Agarwal,Consumer,South,Technology,Phones,OnePlus Nord,1668.95,4,1.41
+ORD-0781,2021-09-22,2021-09-26,Arun Pillai,Home Office,East,Furniture,Chairs,Mesh Chair,10372.8,10,2260.05
+ORD-0782,2023-08-07,2023-08-12,Priya Singh,Home Office,West,Furniture,Chairs,Ergonomic Chair,2228.18,9,408.8
+ORD-0783,2023-06-11,2023-06-14,Divya Reddy,Home Office,South,Furniture,Tables,Coffee Table,632.03,2,40.25
+ORD-0784,2023-04-19,2023-04-22,Kavya Menon,Consumer,South,Technology,Computers,Acer Aspire,6515.01,8,829.1
+ORD-0785,2021-03-29,2021-04-02,Arun Pillai,Consumer,East,Furniture,Furnishings,Drawer Unit,8414.71,7,-318.94
+ORD-0786,2022-03-16,2022-03-21,Vikram Patel,Corporate,West,Furniture,Furnishings,Drawer Unit,1104.68,1,146.71
+ORD-0787,2021-03-13,2021-03-15,Priya Singh,Corporate,East,Furniture,Bookcases,Metal Shelf,8140.09,7,1604.24
+ORD-0788,2022-10-19,2022-10-22,Rajesh Khanna,Corporate,Central,Office Supplies,Binders,Staples Binder,2369.96,9,532.53
+ORD-0789,2021-11-18,2021-11-22,Rajesh Khanna,Home Office,East,Technology,Accessories,Webcam HD,10871.86,8,3255.15
+ORD-0790,2022-10-02,2022-10-08,Rajesh Khanna,Home Office,Central,Office Supplies,Art,Highlighters,1061.93,4,-65.92
+ORD-0791,2022-07-05,2022-07-09,Arun Pillai,Consumer,East,Furniture,Tables,Coffee Table,4834.38,9,257.76
+ORD-0792,2022-10-13,2022-10-16,Anjali Dubey,Consumer,Central,Technology,Phones,Vivo V23,13835.63,7,-695.95
+ORD-0793,2021-03-03,2021-03-07,Neha Gupta,Home Office,West,Furniture,Bookcases,Wood Bookcase,4137.16,8,958.11
+ORD-0794,2022-04-10,2022-04-14,Manoj Mishra,Corporate,Central,Technology,Computers,Lenovo ThinkPad,4457.5,3,596.64
+ORD-0795,2021-09-11,2021-09-13,Vikram Patel,Consumer,South,Furniture,Tables,Coffee Table,8818.69,7,-556.67
+ORD-0796,2021-03-05,2021-03-10,Meera Iyer,Consumer,South,Technology,Copiers,Xerox WorkCentre,8324.61,9,1261.48
+ORD-0797,2023-03-09,2023-03-14,Divya Reddy,Home Office,South,Furniture,Furnishings,File Cabinet,8773.36,7,-307.46
+ORD-0798,2021-05-11,2021-05-16,Arjun Nair,Home Office,West,Office Supplies,Art,Sketch Pens,1178.18,8,277.96
+ORD-0799,2023-08-25,2023-08-31,Meera Iyer,Consumer,West,Furniture,Chairs,Gaming Chair,5054.27,10,683.59
+ORD-0800,2021-05-01,2021-05-05,Rahul Sharma,Corporate,Central,Furniture,Bookcases,Metal Shelf,896.99,3,148.3
+ORD-0801,2021-02-19,2021-02-23,Neha Gupta,Consumer,South,Furniture,Tables,Standing Desk,5292.98,9,1543.92
+ORD-0802,2022-03-04,2022-03-09,Rajesh Khanna,Corporate,South,Office Supplies,Storage,Drawer Tray,2015.95,8,554.7
+ORD-0803,2021-05-16,2021-05-19,Nikhil Bose,Home Office,South,Office Supplies,Labels,Name Tags,783.72,3,36.32
+ORD-0804,2023-03-31,2023-04-06,Rajesh Khanna,Consumer,South,Office Supplies,Envelopes,Bubble Mailer,1001.33,6,331.58
+ORD-0805,2023-07-01,2023-07-06,Rahul Sharma,Consumer,West,Office Supplies,Storage,Drawer Tray,1927.32,10,476.47
+ORD-0806,2021-11-13,2021-11-19,Ritu Agarwal,Consumer,West,Office Supplies,Binders,Staples Binder,1595.59,9,-121.59
+ORD-0807,2022-08-07,2022-08-13,Sneha Chauhan,Home Office,West,Technology,Copiers,Canon Copier,5796.83,3,137.58
+ORD-0808,2021-07-30,2021-08-02,Ritu Agarwal,Home Office,West,Office Supplies,Envelopes,Bubble Mailer,759.13,6,-60.55
+ORD-0809,2023-06-02,2023-06-04,Arun Pillai,Consumer,South,Furniture,Furnishings,Cabinet,3808.89,6,-224.87
+ORD-0810,2021-04-12,2021-04-18,Amit Verma,Corporate,East,Technology,Accessories,HP Keyboard,2256.69,3,187.92
+ORD-0811,2021-06-23,2021-06-25,Priya Singh,Home Office,West,Office Supplies,Storage,Storage Box,615.41,5,27.09
+ORD-0812,2022-02-27,2022-03-03,Kavya Menon,Consumer,West,Furniture,Furnishings,Desk Lamp,9204.41,10,1121.47
+ORD-0813,2023-02-10,2023-02-16,Nikhil Bose,Corporate,West,Furniture,Chairs,Mesh Chair,6029.16,9,710.7
+ORD-0814,2022-02-22,2022-03-01,Sneha Chauhan,Consumer,West,Technology,Phones,OnePlus Nord,2244.91,3,186.41
+ORD-0815,2021-03-27,2021-04-03,Sunita Rao,Home Office,Central,Office Supplies,Paper,A4 Paper Ream,663.54,4,60.18
+ORD-0816,2023-07-23,2023-07-29,Anjali Dubey,Home Office,South,Furniture,Chairs,Ergonomic Chair,302.28,3,96.75
+ORD-0817,2022-05-09,2022-05-13,Arjun Nair,Corporate,South,Office Supplies,Storage,Drawer Tray,2537.98,10,67.49
+ORD-0818,2021-06-15,2021-06-22,Rajesh Khanna,Consumer,Central,Office Supplies,Envelopes,Brown Envelope,501.69,2,113.52
+ORD-0819,2021-10-14,2021-10-19,Nikhil Bose,Home Office,Central,Technology,Accessories,Dell Monitor,3213.35,5,1100.12
+ORD-0820,2021-12-16,2021-12-19,Rahul Sharma,Home Office,East,Furniture,Bookcases,Wood Bookcase,7671.41,10,2344.77
+ORD-0821,2022-11-20,2022-11-23,Amit Verma,Home Office,West,Furniture,Furnishings,File Cabinet,1289.94,9,354.01
+ORD-0822,2022-11-19,2022-11-24,Meera Iyer,Home Office,South,Office Supplies,Binders,Wilson Binder,429.69,7,105.53
+ORD-0823,2022-12-15,2022-12-17,Rahul Sharma,Corporate,East,Technology,Copiers,HP LaserJet,6150.64,4,1484.08
+ORD-0824,2022-11-28,2022-12-05,Kavya Menon,Home Office,Central,Furniture,Tables,Conference Table,5888.67,4,1974.37
+ORD-0825,2021-02-07,2021-02-11,Rajesh Khanna,Home Office,East,Furniture,Tables,Conference Table,2635.77,2,411.43
+ORD-0826,2022-05-21,2022-05-24,Manoj Mishra,Consumer,East,Office Supplies,Paper,Letterhead Paper,679.0,3,-28.96
+ORD-0827,2023-08-14,2023-08-20,Sneha Chauhan,Home Office,West,Technology,Accessories,HP Keyboard,6552.58,10,996.33
+ORD-0828,2022-04-10,2022-04-12,Rohit Joshi,Corporate,South,Furniture,Chairs,Mesh Chair,2104.49,2,231.42
+ORD-0829,2022-01-06,2022-01-12,Sneha Chauhan,Corporate,Central,Technology,Computers,Dell Inspiron,6153.88,8,469.77
+ORD-0830,2021-12-09,2021-12-11,Pooja Tiwari,Home Office,East,Office Supplies,Binders,Staples Binder,551.86,2,-6.29
+ORD-0831,2021-12-04,2021-12-08,Rahul Sharma,Corporate,South,Technology,Phones,Samsung Galaxy,16349.98,10,5244.7
+ORD-0832,2023-05-11,2023-05-15,Priya Singh,Corporate,East,Technology,Phones,Redmi Note,6812.49,6,44.52
+ORD-0833,2021-03-16,2021-03-22,Neha Gupta,Home Office,South,Office Supplies,Art,Sketch Pens,585.22,2,182.89
+ORD-0834,2022-01-22,2022-01-26,Priya Singh,Corporate,West,Office Supplies,Binders,Avery Binder,935.57,5,88.25
+ORD-0835,2021-04-15,2021-04-22,Neha Gupta,Corporate,South,Technology,Phones,OnePlus Nord,15535.34,10,76.13
+ORD-0836,2022-09-06,2022-09-13,Pooja Tiwari,Corporate,South,Office Supplies,Binders,Wilson Binder,1895.77,10,100.15
+ORD-0837,2023-08-19,2023-08-26,Neha Gupta,Consumer,East,Technology,Copiers,HP LaserJet,1271.32,1,-88.49
+ORD-0838,2023-03-20,2023-03-23,Pooja Tiwari,Corporate,Central,Office Supplies,Paper,Letterhead Paper,1761.13,8,176.26
+ORD-0839,2021-09-06,2021-09-09,Pooja Tiwari,Home Office,Central,Technology,Phones,iPhone 14,17347.81,9,4154.25
+ORD-0840,2021-11-15,2021-11-21,Ritu Agarwal,Corporate,South,Office Supplies,Paper,A4 Paper Ream,566.45,6,190.68
+ORD-0841,2022-06-15,2022-06-21,Arun Pillai,Consumer,West,Office Supplies,Labels,Address Labels,2331.21,9,209.64
+ORD-0842,2021-07-20,2021-07-23,Divya Reddy,Consumer,Central,Office Supplies,Paper,A4 Paper Ream,1471.45,8,72.12
+ORD-0843,2022-08-16,2022-08-22,Neha Gupta,Consumer,Central,Furniture,Bookcases,Metal Shelf,10612.38,8,3287.12
+ORD-0844,2022-05-23,2022-05-26,Arjun Nair,Home Office,South,Technology,Computers,HP Pavilion,4261.37,4,1047.26
+ORD-0845,2023-04-15,2023-04-19,Rahul Sharma,Consumer,South,Office Supplies,Art,Sketch Pens,77.21,6,4.71
+ORD-0846,2022-07-23,2022-07-25,Manoj Mishra,Home Office,East,Technology,Accessories,USB Hub,1674.17,6,-145.05
+ORD-0847,2021-07-22,2021-07-26,Sneha Chauhan,Corporate,East,Technology,Computers,Lenovo ThinkPad,2085.5,4,-188.38
+ORD-0848,2023-05-14,2023-05-18,Neha Gupta,Home Office,South,Technology,Phones,iPhone 14,11310.03,6,421.67
+ORD-0849,2021-09-03,2021-09-07,Vikram Patel,Consumer,West,Furniture,Tables,Folding Table,3638.57,3,-50.01
+ORD-0850,2022-01-23,2022-01-30,Kavya Menon,Home Office,South,Furniture,Bookcases,Corner Bookcase,1168.32,1,191.95
+ORD-0851,2023-05-25,2023-05-31,Rohit Joshi,Consumer,East,Furniture,Tables,Coffee Table,3876.31,3,1301.56
+ORD-0852,2023-06-27,2023-07-02,Arun Pillai,Consumer,West,Technology,Phones,Redmi Note,10866.48,7,2067.7
+ORD-0853,2022-06-06,2022-06-10,Meera Iyer,Home Office,Central,Furniture,Furnishings,Cabinet,9650.82,9,2142.89
+ORD-0854,2022-05-22,2022-05-27,Arjun Nair,Consumer,East,Furniture,Furnishings,Desk Lamp,10467.48,8,818.09
+ORD-0855,2021-11-10,2021-11-15,Amit Verma,Home Office,Central,Furniture,Tables,Coffee Table,3456.82,3,113.29
+ORD-0856,2022-06-16,2022-06-20,Nikhil Bose,Corporate,Central,Technology,Phones,Redmi Note,7828.08,8,511.8
+ORD-0857,2022-05-25,2022-05-29,Kavya Menon,Corporate,East,Furniture,Furnishings,Desk Lamp,5017.48,5,309.04
+ORD-0858,2021-03-26,2021-03-30,Kavya Menon,Corporate,West,Office Supplies,Envelopes,Letter Envelope,88.78,2,5.51
+ORD-0859,2022-07-14,2022-07-17,Rohit Joshi,Corporate,Central,Furniture,Tables,Coffee Table,4351.6,4,1519.14
+ORD-0860,2023-05-26,2023-06-02,Anjali Dubey,Corporate,West,Office Supplies,Envelopes,Bubble Mailer,1422.64,6,116.25
+ORD-0861,2022-02-20,2022-02-26,Kavya Menon,Corporate,East,Office Supplies,Binders,Wilson Binder,879.07,4,-4.88
+ORD-0862,2021-08-28,2021-09-03,Amit Verma,Corporate,South,Office Supplies,Envelopes,Bubble Mailer,1531.69,6,142.38
+ORD-0863,2023-08-23,2023-08-30,Rahul Sharma,Home Office,South,Furniture,Tables,Folding Table,1767.18,6,518.12
+ORD-0864,2021-11-09,2021-11-16,Pooja Tiwari,Consumer,Central,Technology,Copiers,HP LaserJet,10040.61,7,818.47
+ORD-0865,2023-03-09,2023-03-16,Priya Singh,Home Office,West,Office Supplies,Storage,File Organizer,163.71,3,53.81
+ORD-0866,2021-12-05,2021-12-11,Arjun Nair,Corporate,South,Office Supplies,Envelopes,Letter Envelope,199.33,7,14.73
+ORD-0867,2022-05-02,2022-05-04,Neha Gupta,Consumer,West,Furniture,Furnishings,Drawer Unit,3138.21,9,853.32
+ORD-0868,2022-09-10,2022-09-15,Anjali Dubey,Corporate,West,Technology,Computers,HP Pavilion,2477.88,4,487.66
+ORD-0869,2021-03-13,2021-03-18,Suresh Kumar,Consumer,West,Technology,Accessories,Webcam HD,6327.93,7,2185.15
+ORD-0870,2021-05-13,2021-05-19,Vikram Patel,Consumer,South,Furniture,Furnishings,Desk Lamp,2134.64,4,572.2
+ORD-0871,2022-11-12,2022-11-17,Nikhil Bose,Home Office,East,Technology,Accessories,Webcam HD,2815.32,5,974.07
+ORD-0872,2022-04-02,2022-04-04,Nikhil Bose,Corporate,South,Furniture,Tables,Coffee Table,1547.19,10,-91.29
+ORD-0873,2022-10-24,2022-10-29,Kavya Menon,Corporate,East,Furniture,Bookcases,Metal Shelf,4079.85,3,938.2
+ORD-0874,2022-04-14,2022-04-19,Priya Singh,Corporate,West,Office Supplies,Paper,Letterhead Paper,1067.23,4,-30.88
+ORD-0875,2023-06-23,2023-06-30,Arjun Nair,Home Office,West,Office Supplies,Storage,Drawer Tray,1034.17,8,251.14
+ORD-0876,2021-05-05,2021-05-09,Nikhil Bose,Corporate,Central,Technology,Phones,Vivo V23,1964.94,3,250.98
+ORD-0877,2022-04-19,2022-04-21,Rajesh Khanna,Home Office,Central,Technology,Copiers,Epson Printer,3656.06,4,-347.94
+ORD-0878,2021-04-28,2021-05-05,Amit Verma,Corporate,South,Technology,Accessories,USB Hub,2374.34,2,21.45
+ORD-0879,2023-08-31,2023-09-05,Rahul Sharma,Consumer,East,Technology,Copiers,HP LaserJet,3809.27,10,123.29
+ORD-0880,2022-07-02,2022-07-09,Rohit Joshi,Home Office,West,Furniture,Tables,Conference Table,2150.76,3,-42.86
+ORD-0881,2023-01-02,2023-01-04,Priya Singh,Home Office,South,Office Supplies,Envelopes,Brown Envelope,1763.04,9,392.07
+ORD-0882,2023-07-08,2023-07-10,Rahul Sharma,Home Office,West,Furniture,Bookcases,Metal Shelf,1181.37,1,289.67
+ORD-0883,2023-08-10,2023-08-13,Pooja Tiwari,Consumer,West,Furniture,Tables,Standing Desk,1485.01,1,76.78
+ORD-0884,2021-07-16,2021-07-23,Sunita Rao,Home Office,West,Office Supplies,Binders,Avery Binder,68.29,3,8.92
+ORD-0885,2023-04-16,2023-04-20,Neha Gupta,Corporate,South,Furniture,Tables,Standing Desk,1597.17,4,96.56
+ORD-0886,2021-06-27,2021-06-29,Nikhil Bose,Consumer,South,Furniture,Bookcases,Wood Bookcase,769.69,4,205.34
+ORD-0887,2022-10-28,2022-11-03,Anjali Dubey,Corporate,East,Furniture,Chairs,Ergonomic Chair,7994.06,10,2763.65
+ORD-0888,2022-12-31,2023-01-06,Suresh Kumar,Home Office,West,Office Supplies,Paper,Photo Paper,1446.14,7,488.17
+ORD-0889,2022-12-12,2022-12-15,Suresh Kumar,Consumer,South,Furniture,Tables,Coffee Table,951.95,1,155.42
+ORD-0890,2022-01-27,2022-02-02,Rahul Sharma,Consumer,West,Office Supplies,Labels,Address Labels,2300.93,10,-101.64
+ORD-0891,2021-08-31,2021-09-07,Meera Iyer,Consumer,West,Furniture,Tables,Conference Table,4122.08,8,-130.87
+ORD-0892,2021-07-29,2021-08-05,Suresh Kumar,Home Office,South,Technology,Computers,Asus VivoBook,2101.88,3,398.56
+ORD-0893,2023-02-18,2023-02-20,Kavya Menon,Consumer,Central,Office Supplies,Art,Highlighters,656.35,6,-4.85
+ORD-0894,2021-02-25,2021-03-04,Suresh Kumar,Home Office,South,Technology,Computers,Asus VivoBook,2988.75,3,-290.75
+ORD-0895,2023-06-10,2023-06-15,Vikram Patel,Consumer,East,Technology,Computers,Dell Inspiron,1025.23,2,150.69
+ORD-0896,2023-03-26,2023-03-29,Sunita Rao,Corporate,South,Technology,Phones,Redmi Note,2563.46,4,-52.82
+ORD-0897,2021-09-12,2021-09-16,Amit Verma,Corporate,Central,Furniture,Furnishings,Cabinet,3945.25,6,-96.68
+ORD-0898,2022-03-28,2022-04-02,Divya Reddy,Consumer,South,Office Supplies,Envelopes,Letter Envelope,230.96,1,21.32
+ORD-0899,2021-03-27,2021-03-31,Rajesh Khanna,Corporate,East,Office Supplies,Envelopes,Brown Envelope,789.57,8,21.67
+ORD-0900,2022-07-30,2022-08-05,Divya Reddy,Home Office,East,Furniture,Chairs,Mesh Chair,1266.46,4,-18.58
+ORD-0901,2021-01-14,2021-01-20,Pooja Tiwari,Corporate,South,Office Supplies,Labels,Name Tags,2040.1,7,138.55
+ORD-0902,2022-05-17,2022-05-21,Neha Gupta,Consumer,South,Office Supplies,Envelopes,Brown Envelope,1962.22,7,-52.86
+ORD-0903,2023-02-21,2023-02-26,Meera Iyer,Home Office,South,Furniture,Bookcases,Corner Bookcase,1011.27,1,320.51
+ORD-0904,2023-01-24,2023-01-27,Rahul Sharma,Home Office,Central,Technology,Copiers,Canon Copier,2011.19,3,211.1
+ORD-0905,2022-11-29,2022-12-02,Amit Verma,Consumer,West,Furniture,Tables,Standing Desk,4597.14,7,752.88
+ORD-0906,2023-07-12,2023-07-14,Rohit Joshi,Corporate,East,Office Supplies,Paper,Photo Paper,775.94,5,108.59
+ORD-0907,2023-06-27,2023-07-02,Amit Verma,Home Office,South,Office Supplies,Storage,Drawer Tray,388.98,2,97.05
+ORD-0908,2021-12-19,2021-12-22,Sunita Rao,Consumer,Central,Furniture,Tables,Folding Table,817.68,8,-56.07
+ORD-0909,2022-12-15,2022-12-20,Pooja Tiwari,Home Office,Central,Office Supplies,Art,Highlighters,183.47,3,-2.96
+ORD-0910,2021-05-18,2021-05-21,Arjun Nair,Home Office,South,Furniture,Tables,Conference Table,1143.95,3,271.64
+ORD-0911,2023-04-09,2023-04-12,Sunita Rao,Home Office,West,Furniture,Furnishings,File Cabinet,1020.75,2,71.43
+ORD-0912,2021-10-11,2021-10-13,Neha Gupta,Corporate,South,Furniture,Chairs,Executive Chair,185.48,1,44.2
+ORD-0913,2021-01-08,2021-01-15,Rahul Sharma,Home Office,East,Office Supplies,Binders,Avery Binder,1294.06,7,445.29
+ORD-0914,2023-02-19,2023-02-23,Meera Iyer,Corporate,South,Furniture,Furnishings,Drawer Unit,8995.34,6,2406.98
+ORD-0915,2023-08-22,2023-08-26,Suresh Kumar,Corporate,West,Office Supplies,Art,Markers Set,21.79,2,6.36
+ORD-0916,2022-02-16,2022-02-23,Rohit Joshi,Home Office,West,Technology,Phones,Vivo V23,3452.7,4,615.47
+ORD-0917,2022-11-06,2022-11-11,Suresh Kumar,Consumer,East,Office Supplies,Art,Highlighters,193.8,1,56.79
+ORD-0918,2023-09-20,2023-09-27,Ritu Agarwal,Corporate,South,Furniture,Furnishings,Cabinet,1175.34,2,379.15
+ORD-0919,2023-08-23,2023-08-28,Ritu Agarwal,Corporate,South,Office Supplies,Labels,Address Labels,865.85,4,252.34
+ORD-0920,2023-06-17,2023-06-23,Amit Verma,Corporate,East,Office Supplies,Envelopes,Brown Envelope,1256.91,5,437.83
+ORD-0921,2023-06-15,2023-06-20,Sneha Chauhan,Home Office,South,Technology,Copiers,Canon Copier,2552.16,4,-59.48
+ORD-0922,2023-08-25,2023-09-01,Rahul Sharma,Home Office,South,Office Supplies,Binders,Avery Binder,838.23,3,39.33
+ORD-0923,2022-01-28,2022-02-01,Vikram Patel,Home Office,West,Technology,Accessories,USB Hub,12063.48,9,1464.28
+ORD-0924,2023-03-26,2023-04-02,Rajesh Khanna,Corporate,Central,Furniture,Tables,Conference Table,13074.72,9,1263.45
+ORD-0925,2021-08-27,2021-08-30,Amit Verma,Consumer,West,Furniture,Chairs,Mesh Chair,6820.88,6,2194.58
+ORD-0926,2023-02-02,2023-02-04,Manoj Mishra,Corporate,Central,Office Supplies,Storage,Storage Box,100.13,1,16.57
+ORD-0927,2021-07-14,2021-07-19,Ritu Agarwal,Home Office,East,Furniture,Bookcases,Metal Shelf,4109.98,10,320.13
+ORD-0928,2022-07-06,2022-07-11,Nikhil Bose,Corporate,East,Furniture,Tables,Coffee Table,2826.15,3,-97.1
+ORD-0929,2022-11-13,2022-11-20,Manoj Mishra,Corporate,West,Technology,Accessories,Dell Monitor,10687.51,8,-31.34
+ORD-0930,2021-10-26,2021-11-02,Arjun Nair,Home Office,East,Furniture,Chairs,Mesh Chair,4322.28,4,-329.99
+ORD-0931,2023-06-06,2023-06-09,Sneha Chauhan,Consumer,East,Furniture,Furnishings,Drawer Unit,4006.62,7,821.58
+ORD-0932,2021-12-23,2021-12-28,Arjun Nair,Home Office,Central,Furniture,Chairs,Mesh Chair,5861.53,9,-240.88
+ORD-0933,2023-02-10,2023-02-16,Vikram Patel,Home Office,East,Technology,Accessories,USB Hub,11621.76,8,360.12
+ORD-0934,2021-05-29,2021-06-01,Manoj Mishra,Home Office,Central,Technology,Computers,Dell Inspiron,2841.94,2,979.95
+ORD-0935,2021-06-01,2021-06-06,Divya Reddy,Corporate,West,Furniture,Tables,Conference Table,4269.27,3,-201.48
+ORD-0936,2022-06-12,2022-06-19,Priya Singh,Consumer,South,Furniture,Furnishings,Cabinet,874.4,2,104.82
+ORD-0937,2022-12-06,2022-12-12,Rajesh Khanna,Home Office,South,Technology,Copiers,Canon Copier,6691.0,5,671.13
+ORD-0938,2021-01-12,2021-01-14,Arun Pillai,Home Office,South,Technology,Phones,Samsung Galaxy,965.79,4,152.44
+ORD-0939,2022-08-10,2022-08-15,Pooja Tiwari,Corporate,South,Furniture,Chairs,Executive Chair,4499.96,5,-248.63
+ORD-0940,2021-03-07,2021-03-14,Sneha Chauhan,Corporate,West,Office Supplies,Paper,Photo Paper,2134.87,9,295.76
+ORD-0941,2021-03-07,2021-03-13,Neha Gupta,Consumer,West,Office Supplies,Envelopes,Letter Envelope,779.94,3,166.01
+ORD-0942,2021-01-06,2021-01-12,Manoj Mishra,Consumer,West,Furniture,Bookcases,Wood Bookcase,4054.79,4,-245.24
+ORD-0943,2021-09-20,2021-09-22,Sneha Chauhan,Corporate,Central,Technology,Phones,Vivo V23,2884.48,3,938.47
+ORD-0944,2021-01-01,2021-01-04,Manoj Mishra,Consumer,South,Furniture,Chairs,Mesh Chair,8585.14,8,1160.71
+ORD-0945,2021-12-27,2022-01-02,Priya Singh,Home Office,West,Office Supplies,Envelopes,Brown Envelope,82.61,4,-2.99
+ORD-0946,2023-05-27,2023-05-30,Vikram Patel,Corporate,Central,Technology,Computers,Asus VivoBook,9596.27,10,1414.8
+ORD-0947,2021-09-24,2021-09-29,Rohit Joshi,Consumer,South,Office Supplies,Paper,Photo Paper,1978.6,7,-70.32
+ORD-0948,2021-07-28,2021-07-30,Meera Iyer,Home Office,East,Office Supplies,Labels,Name Tags,2006.22,10,540.13
+ORD-0949,2022-09-12,2022-09-15,Rahul Sharma,Corporate,South,Furniture,Tables,Coffee Table,4464.97,10,96.25
+ORD-0950,2022-06-29,2022-07-01,Amit Verma,Corporate,West,Office Supplies,Envelopes,Bubble Mailer,1642.09,6,410.74
+ORD-0951,2021-05-30,2021-06-02,Rajesh Khanna,Consumer,South,Furniture,Chairs,Ergonomic Chair,2391.65,2,-106.25
+ORD-0952,2022-06-24,2022-07-01,Manoj Mishra,Home Office,Central,Furniture,Furnishings,Desk Lamp,4360.8,5,755.99
+ORD-0953,2023-07-08,2023-07-10,Sneha Chauhan,Corporate,East,Technology,Accessories,USB Hub,11432.8,9,3227.86
+ORD-0954,2022-05-04,2022-05-10,Vikram Patel,Home Office,East,Technology,Accessories,Logitech Mouse,2645.52,3,610.96
+ORD-0955,2021-02-24,2021-03-03,Ritu Agarwal,Home Office,East,Office Supplies,Storage,Drawer Tray,1504.78,7,-26.49
+ORD-0956,2021-12-29,2022-01-03,Kavya Menon,Home Office,South,Office Supplies,Storage,File Organizer,971.67,5,-59.15
+ORD-0957,2021-11-09,2021-11-14,Kavya Menon,Home Office,West,Furniture,Chairs,Ergonomic Chair,662.32,2,-49.12
+ORD-0958,2023-02-01,2023-02-05,Arun Pillai,Home Office,South,Office Supplies,Art,Sketch Pens,447.3,3,58.93
+ORD-0959,2022-11-25,2022-12-01,Arjun Nair,Home Office,West,Office Supplies,Binders,Wilson Binder,217.11,1,46.93
+ORD-0960,2023-02-07,2023-02-11,Arun Pillai,Consumer,South,Technology,Phones,Vivo V23,2058.66,4,134.17
+ORD-0961,2021-05-17,2021-05-23,Sunita Rao,Corporate,South,Furniture,Chairs,Gaming Chair,8745.72,6,455.49
+ORD-0962,2022-11-27,2022-11-30,Anjali Dubey,Corporate,Central,Office Supplies,Binders,Wilson Binder,358.95,5,83.32
+ORD-0963,2022-08-06,2022-08-11,Ritu Agarwal,Corporate,West,Technology,Accessories,Webcam HD,2427.95,8,-236.36
+ORD-0964,2022-04-17,2022-04-21,Sunita Rao,Corporate,West,Furniture,Bookcases,Wood Bookcase,4174.42,7,-227.08
+ORD-0965,2022-05-19,2022-05-22,Rahul Sharma,Corporate,West,Technology,Computers,Acer Aspire,4755.02,3,59.73
+ORD-0966,2022-04-27,2022-05-02,Sneha Chauhan,Consumer,South,Furniture,Bookcases,Metal Shelf,1260.86,5,122.75
+ORD-0967,2023-05-10,2023-05-15,Meera Iyer,Consumer,South,Technology,Computers,Lenovo ThinkPad,1596.79,4,45.04
+ORD-0968,2021-05-17,2021-05-22,Arjun Nair,Home Office,East,Furniture,Bookcases,Wood Bookcase,11548.63,8,3953.3
+ORD-0969,2021-05-02,2021-05-07,Arun Pillai,Corporate,Central,Furniture,Furnishings,Cabinet,1987.89,7,657.9
+ORD-0970,2023-03-23,2023-03-25,Kavya Menon,Home Office,West,Technology,Computers,Lenovo ThinkPad,1420.96,1,76.68
+ORD-0971,2023-09-27,2023-10-03,Anjali Dubey,Corporate,South,Office Supplies,Binders,Wilson Binder,271.67,8,25.27
+ORD-0972,2022-09-25,2022-09-28,Neha Gupta,Corporate,East,Office Supplies,Envelopes,Brown Envelope,1491.67,5,16.87
+ORD-0973,2023-04-21,2023-04-26,Manoj Mishra,Consumer,East,Technology,Copiers,Canon Copier,1838.67,3,-74.41
+ORD-0974,2021-02-09,2021-02-13,Arjun Nair,Home Office,West,Technology,Computers,Acer Aspire,3511.66,2,249.89
+ORD-0975,2022-06-22,2022-06-26,Pooja Tiwari,Corporate,East,Office Supplies,Labels,Address Labels,222.33,8,20.49
+ORD-0976,2021-02-22,2021-02-26,Pooja Tiwari,Corporate,Central,Technology,Accessories,Dell Monitor,3102.85,4,-243.88
+ORD-0977,2021-02-11,2021-02-13,Rohit Joshi,Corporate,Central,Technology,Accessories,HP Keyboard,3813.71,10,-64.15
+ORD-0978,2023-08-30,2023-09-04,Rahul Sharma,Consumer,West,Furniture,Bookcases,Metal Shelf,10607.84,9,-438.75
+ORD-0979,2022-01-05,2022-01-12,Manoj Mishra,Consumer,Central,Furniture,Bookcases,Wood Bookcase,1554.87,7,-81.06
+ORD-0980,2022-10-07,2022-10-14,Nikhil Bose,Consumer,East,Office Supplies,Binders,Avery Binder,63.43,2,9.26
+ORD-0981,2021-12-18,2021-12-22,Vikram Patel,Consumer,East,Office Supplies,Art,Sketch Pens,525.13,4,115.64
+ORD-0982,2023-07-02,2023-07-08,Amit Verma,Corporate,West,Furniture,Bookcases,Metal Shelf,5492.85,8,1752.77
+ORD-0983,2022-05-31,2022-06-02,Manoj Mishra,Consumer,Central,Technology,Accessories,HP Keyboard,1629.9,1,345.88
+ORD-0984,2023-01-29,2023-02-03,Rajesh Khanna,Home Office,South,Furniture,Chairs,Executive Chair,10720.09,9,861.7
+ORD-0985,2021-10-06,2021-10-09,Rahul Sharma,Home Office,East,Technology,Phones,iPhone 14,9178.14,9,2005.33
+ORD-0986,2022-06-22,2022-06-26,Neha Gupta,Home Office,Central,Furniture,Tables,Coffee Table,1240.5,3,173.8
+ORD-0987,2021-10-26,2021-10-28,Priya Singh,Corporate,East,Office Supplies,Paper,Photo Paper,1187.86,4,-6.55
+ORD-0988,2021-04-29,2021-05-01,Amit Verma,Corporate,Central,Office Supplies,Storage,Drawer Tray,779.14,9,-31.07
+ORD-0989,2023-07-09,2023-07-15,Kavya Menon,Corporate,West,Furniture,Bookcases,Wood Bookcase,1737.15,5,585.81
+ORD-0990,2022-07-05,2022-07-12,Rohit Joshi,Home Office,South,Office Supplies,Binders,Staples Binder,1697.55,10,454.23
+ORD-0991,2021-08-14,2021-08-18,Kavya Menon,Corporate,East,Furniture,Tables,Folding Table,4312.67,7,1319.57
+ORD-0992,2021-04-06,2021-04-11,Manoj Mishra,Consumer,East,Technology,Copiers,Xerox WorkCentre,15184.31,8,-285.72
+ORD-0993,2021-10-16,2021-10-18,Ritu Agarwal,Home Office,South,Furniture,Tables,Standing Desk,788.94,4,-53.32
+ORD-0994,2021-09-09,2021-09-14,Rahul Sharma,Home Office,East,Office Supplies,Art,Sketch Pens,389.22,10,28.33
+ORD-0995,2021-04-23,2021-04-25,Rohit Joshi,Consumer,East,Office Supplies,Binders,Avery Binder,846.58,3,143.78
+ORD-0996,2023-03-23,2023-03-25,Divya Reddy,Consumer,East,Technology,Accessories,Logitech Mouse,18063.03,10,4822.09
+ORD-0997,2021-11-11,2021-11-15,Rohit Joshi,Home Office,West,Furniture,Tables,Standing Desk,2450.75,9,664.68
+ORD-0998,2021-04-16,2021-04-22,Kavya Menon,Consumer,East,Furniture,Chairs,Gaming Chair,417.35,1,30.64
+ORD-0999,2021-12-28,2022-01-04,Sunita Rao,Corporate,West,Furniture,Tables,Folding Table,828.66,2,273.8
+ORD-1000,2021-10-16,2021-10-20,Priya Singh,Consumer,Central,Technology,Accessories,Logitech Mouse,4719.85,10,438.39
